@@ -1,0 +1,3186 @@
+{
+    "6": {
+        "target": "night snake, Hypsiglena torquata",
+        "top1": "Dungeness crab, Cancer magister",
+        "top2": "rock crab, Cancer irroratus",
+        "top3": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        "top4": "night snake, Hypsiglena torquata",
+        "top5": "starfish, sea star"
+    },
+    "7": {
+        "target": "bearskin, busby, shako",
+        "top1": "military uniform",
+        "top2": "bearskin, busby, shako",
+        "top3": "cornet, horn, trumpet, trump",
+        "top4": "pickelhaube",
+        "top5": "drum, membranophone, tympan"
+    },
+    "13": {
+        "target": "banded gecko",
+        "top1": "Gila monster, Heloderma suspectum",
+        "top2": "night snake, Hypsiglena torquata",
+        "top3": "scorpion",
+        "top4": "hognose snake, puff adder, sand viper",
+        "top5": "banded gecko"
+    },
+    "14": {
+        "target": "can opener, tin opener",
+        "top1": "corkscrew, bottle screw",
+        "top2": "spatula",
+        "top3": "can opener, tin opener",
+        "top4": "letter opener, paper knife, paperknife",
+        "top5": "scabbard"
+    },
+    "15": {
+        "target": "parking meter",
+        "top1": "mailbox, letter box",
+        "top2": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+        "top3": "parking meter",
+        "top4": "street sign",
+        "top5": "pay-phone, pay-station"
+    },
+    "17": {
+        "target": "silky terrier, Sydney silky",
+        "top1": "teddy, teddy bear",
+        "top2": "silky terrier, Sydney silky",
+        "top3": "affenpinscher, monkey pinscher, monkey dog",
+        "top4": "Yorkshire terrier",
+        "top5": "toy poodle"
+    },
+    "19": {
+        "target": "teapot",
+        "top1": "coffeepot",
+        "top2": "teapot",
+        "top3": "espresso maker",
+        "top4": "pitcher, ewer",
+        "top5": "cup"
+    },
+    "23": {
+        "target": "titi, titi monkey",
+        "top1": "squirrel monkey, Saimiri sciureus",
+        "top2": "titi, titi monkey",
+        "top3": "spider monkey, Ateles geoffroyi",
+        "top4": "capuchin, ringtail, Cebus capucinus",
+        "top5": "marmoset"
+    },
+    "27": {
+        "target": "wombat",
+        "top1": "koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",
+        "top2": "wombat",
+        "top3": "indri, indris, Indri indri, Indri brevicaudatus",
+        "top4": "Madagascar cat, ring-tailed lemur, Lemur catta",
+        "top5": "wallaby, brush kangaroo"
+    },
+    "31": {
+        "target": "sea urchin",
+        "top1": "rock beauty, Holocanthus tricolor",
+        "top2": "sea urchin",
+        "top3": "coral reef",
+        "top4": "sea anemone, anemone",
+        "top5": "anemone fish"
+    },
+    "35": {
+        "target": "altar",
+        "top1": "vault",
+        "top2": "altar",
+        "top3": "throne",
+        "top4": "digital clock",
+        "top5": "scoreboard"
+    },
+    "36": {
+        "target": "maillot, tank suit",
+        "top1": "maillot",
+        "top2": "maillot, tank suit",
+        "top3": "bathing cap, swimming cap",
+        "top4": "maraca",
+        "top5": "brassiere, bra, bandeau"
+    },
+    "37": {
+        "target": "fiddler crab",
+        "top1": "rock crab, Cancer irroratus",
+        "top2": "fiddler crab",
+        "top3": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        "top4": "Dungeness crab, Cancer magister",
+        "top5": "scorpion"
+    },
+    "39": {
+        "target": "stupa, tope",
+        "top1": "fountain",
+        "top2": "dome",
+        "top3": "bell cote, bell cot",
+        "top4": "church, church building",
+        "top5": "stupa, tope"
+    },
+    "42": {
+        "target": "Greater Swiss Mountain dog",
+        "top1": "Appenzeller",
+        "top2": "EntleBucher",
+        "top3": "Greater Swiss Mountain dog",
+        "top4": "Bernese mountain dog",
+        "top5": "kelpie"
+    },
+    "46": {
+        "target": "marimba, xylophone",
+        "top1": "park bench",
+        "top2": "marimba, xylophone",
+        "top3": "folding chair",
+        "top4": "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",
+        "top5": "rocking chair, rocker"
+    },
+    "50": {
+        "target": "hand-held computer, hand-held microcomputer",
+        "top1": "space bar",
+        "top2": "hand-held computer, hand-held microcomputer",
+        "top3": "notebook, notebook computer",
+        "top4": "laptop, laptop computer",
+        "top5": "typewriter keyboard"
+    },
+    "70": {
+        "target": "breastplate, aegis, egis",
+        "top1": "cuirass",
+        "top2": "breastplate, aegis, egis",
+        "top3": "shield, buckler",
+        "top4": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        "top5": "bulletproof vest"
+    },
+    "73": {
+        "target": "cup",
+        "top1": "king snake, kingsnake",
+        "top2": "coffee mug",
+        "top3": "cup",
+        "top4": "sea snake",
+        "top5": "night snake, Hypsiglena torquata"
+    },
+    "81": {
+        "target": "printer",
+        "top1": "photocopier",
+        "top2": "printer",
+        "top3": "washer, automatic washer, washing machine",
+        "top4": "refrigerator, icebox",
+        "top5": "dishwasher, dish washer, dishwashing machine"
+    },
+    "86": {
+        "target": "green lizard, Lacerta viridis",
+        "top1": "American chameleon, anole, Anolis carolinensis",
+        "top2": "green lizard, Lacerta viridis",
+        "top3": "alligator lizard",
+        "top4": "agama",
+        "top5": "vine snake"
+    },
+    "87": {
+        "target": "sax, saxophone",
+        "top1": "cornet, horn, trumpet, trump",
+        "top2": "trombone",
+        "top3": "sax, saxophone",
+        "top4": "bassoon",
+        "top5": "oboe, hautboy, hautbois"
+    },
+    "97": {
+        "target": "head cabbage",
+        "top1": "cauliflower",
+        "top2": "head cabbage",
+        "top3": "artichoke, globe artichoke",
+        "top4": "broccoli",
+        "top5": "acorn squash"
+    },
+    "98": {
+        "target": "Granny Smith",
+        "top1": "orange",
+        "top2": "lemon",
+        "top3": "banana",
+        "top4": "Granny Smith",
+        "top5": "pineapple, ananas"
+    },
+    "99": {
+        "target": "Gordon setter",
+        "top1": "curly-coated retriever",
+        "top2": "Irish water spaniel",
+        "top3": "Bouvier des Flandres, Bouviers des Flandres",
+        "top4": "Gordon setter",
+        "top5": "Newfoundland, Newfoundland dog"
+    },
+    "100": {
+        "target": "eft",
+        "top1": "common newt, Triturus vulgaris",
+        "top2": "eft",
+        "top3": "European fire salamander, Salamandra salamandra",
+        "top4": "axolotl, mud puppy, Ambystoma mexicanum",
+        "top5": "spotted salamander, Ambystoma maculatum"
+    },
+    "102": {
+        "target": "quill, quill pen",
+        "top1": "syringe",
+        "top2": "quill, quill pen",
+        "top3": "lighter, light, igniter, ignitor",
+        "top4": "mortarboard",
+        "top5": "safety pin"
+    },
+    "104": {
+        "target": "combination lock",
+        "top1": "hook, claw",
+        "top2": "combination lock",
+        "top3": "binder, ring-binder",
+        "top4": "mailbag, postbag",
+        "top5": "backpack, back pack, knapsack, packsack, rucksack, haversack"
+    },
+    "106": {
+        "target": "German short-haired pointer",
+        "top1": "stinkhorn, carrion fungus",
+        "top2": "bluetick",
+        "top3": "German short-haired pointer",
+        "top4": "Walker hound, Walker foxhound",
+        "top5": "Indian cobra, Naja naja"
+    },
+    "107": {
+        "target": "mousetrap",
+        "top1": "packet",
+        "top2": "lighter, light, igniter, ignitor",
+        "top3": "mousetrap",
+        "top4": "rubber eraser, rubber, pencil eraser",
+        "top5": "matchstick"
+    },
+    "112": {
+        "target": "ox",
+        "top1": "oxcart",
+        "top2": "ox",
+        "top3": "horse cart, horse-cart",
+        "top4": "jinrikisha, ricksha, rickshaw",
+        "top5": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis"
+    },
+    "114": {
+        "target": "syringe",
+        "top1": "perfume, essence",
+        "top2": "lotion",
+        "top3": "syringe",
+        "top4": "water bottle",
+        "top5": "hair spray"
+    },
+    "115": {
+        "target": "mask",
+        "top1": "pinwheel",
+        "top2": "mask",
+        "top3": "bonnet, poke bonnet",
+        "top4": "sombrero",
+        "top5": "umbrella"
+    },
+    "127": {
+        "target": "Japanese spaniel",
+        "top1": "clumber, clumber spaniel",
+        "top2": "English setter",
+        "top3": "Japanese spaniel",
+        "top4": "Blenheim spaniel",
+        "top5": "cocker spaniel, English cocker spaniel, cocker"
+    },
+    "129": {
+        "target": "maillot, tank suit",
+        "top1": "seashore, coast, seacoast, sea-coast",
+        "top2": "sandbar, sand bar",
+        "top3": "bikini, two-piece",
+        "top4": "maillot",
+        "top5": "maillot, tank suit"
+    },
+    "140": {
+        "target": "Dandie Dinmont, Dandie Dinmont terrier",
+        "top1": "Lhasa, Lhasa apso",
+        "top2": "Maltese dog, Maltese terrier, Maltese",
+        "top3": "Shih-Tzu",
+        "top4": "Dandie Dinmont, Dandie Dinmont terrier",
+        "top5": "soft-coated wheaten terrier"
+    },
+    "141": {
+        "target": "English setter",
+        "top1": "otterhound, otter hound",
+        "top2": "English setter",
+        "top3": "clumber, clumber spaniel",
+        "top4": "Gordon setter",
+        "top5": "Sussex spaniel"
+    },
+    "155": {
+        "target": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top1": "beacon, lighthouse, beacon light, pharos",
+        "top2": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top3": "boathouse",
+        "top4": "lakeside, lakeshore",
+        "top5": "seashore, coast, seacoast, sea-coast"
+    },
+    "156": {
+        "target": "Chihuahua",
+        "top1": "miniature pinscher",
+        "top2": "Chihuahua",
+        "top3": "toy terrier",
+        "top4": "Mexican hairless",
+        "top5": "Italian greyhound"
+    },
+    "157": {
+        "target": "axolotl, mud puppy, Ambystoma mexicanum",
+        "top1": "centipede",
+        "top2": "common newt, Triturus vulgaris",
+        "top3": "isopod",
+        "top4": "axolotl, mud puppy, Ambystoma mexicanum",
+        "top5": "spotted salamander, Ambystoma maculatum"
+    },
+    "161": {
+        "target": "whippet",
+        "top1": "Italian greyhound",
+        "top2": "whippet",
+        "top3": "Ibizan hound, Ibizan Podenco",
+        "top4": "basenji",
+        "top5": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+    },
+    "163": {
+        "target": "purse",
+        "top1": "wallet, billfold, notecase, pocketbook",
+        "top2": "pencil box, pencil case",
+        "top3": "purse",
+        "top4": "iPod",
+        "top5": "laptop, laptop computer"
+    },
+    "168": {
+        "target": "velvet",
+        "top1": "honeycomb",
+        "top2": "coil, spiral, volute, whorl, helix",
+        "top3": "velvet",
+        "top4": "bubble",
+        "top5": "apron"
+    },
+    "169": {
+        "target": "long-horned beetle, longicorn, longicorn beetle",
+        "top1": "ant, emmet, pismire",
+        "top2": "cockroach, roach",
+        "top3": "weevil",
+        "top4": "long-horned beetle, longicorn, longicorn beetle",
+        "top5": "ground beetle, carabid beetle"
+    },
+    "173": {
+        "target": "crayfish, crawfish, crawdad, crawdaddy",
+        "top1": "rock crab, Cancer irroratus",
+        "top2": "Dungeness crab, Cancer magister",
+        "top3": "fiddler crab",
+        "top4": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        "top5": "crayfish, crawfish, crawdad, crawdaddy"
+    },
+    "174": {
+        "target": "French horn, horn",
+        "top1": "cornet, horn, trumpet, trump",
+        "top2": "trombone",
+        "top3": "French horn, horn",
+        "top4": "sax, saxophone",
+        "top5": "flute, transverse flute"
+    },
+    "176": {
+        "target": "king snake, kingsnake",
+        "top1": "hognose snake, puff adder, sand viper",
+        "top2": "king snake, kingsnake",
+        "top3": "night snake, Hypsiglena torquata",
+        "top4": "sidewinder, horned rattlesnake, Crotalus cerastes",
+        "top5": "sea snake"
+    },
+    "182": {
+        "target": "switch, electric switch, electrical switch",
+        "top1": "screw",
+        "top2": "switch, electric switch, electrical switch",
+        "top3": "spotlight, spot",
+        "top4": "nail",
+        "top5": "analog clock"
+    },
+    "185": {
+        "target": "Scottish deerhound, deerhound",
+        "top1": "Irish wolfhound",
+        "top2": "Scottish deerhound, deerhound",
+        "top3": "otterhound, otter hound",
+        "top4": "borzoi, Russian wolfhound",
+        "top5": "Old English sheepdog, bobtail"
+    },
+    "189": {
+        "target": "lens cap, lens cover",
+        "top1": "reflex camera",
+        "top2": "lens cap, lens cover",
+        "top3": "tripod",
+        "top4": "Polaroid camera, Polaroid Land camera",
+        "top5": "binoculars, field glasses, opera glasses"
+    },
+    "190": {
+        "target": "speedboat",
+        "top1": "lifeboat",
+        "top2": "speedboat",
+        "top3": "paddle, boat paddle",
+        "top4": "fireboat",
+        "top5": "canoe"
+    },
+    "196": {
+        "target": "Cardigan, Cardigan Welsh corgi",
+        "top1": "Pembroke, Pembroke Welsh corgi",
+        "top2": "Cardigan, Cardigan Welsh corgi",
+        "top3": "dingo, warrigal, warragal, Canis dingo",
+        "top4": "kelpie",
+        "top5": "basenji"
+    },
+    "199": {
+        "target": "weasel",
+        "top1": "otter",
+        "top2": "mink",
+        "top3": "weasel",
+        "top4": "beaver",
+        "top5": "polecat, fitch, foulmart, foumart, Mustela putorius"
+    },
+    "206": {
+        "target": "table lamp",
+        "top1": "lampshade, lamp shade",
+        "top2": "table lamp",
+        "top3": "spotlight, spot",
+        "top4": "pool table, billiard table, snooker table",
+        "top5": "traffic light, traffic signal, stoplight"
+    },
+    "210": {
+        "target": "diaper, nappy, napkin",
+        "top1": "hamper",
+        "top2": "cowboy hat, ten-gallon hat",
+        "top3": "sombrero",
+        "top4": "seat belt, seatbelt",
+        "top5": "diaper, nappy, napkin"
+    },
+    "222": {
+        "target": "pug, pug-dog",
+        "top1": "bull mastiff",
+        "top2": "pug, pug-dog",
+        "top3": "Great Dane",
+        "top4": "Labrador retriever",
+        "top5": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier"
+    },
+    "231": {
+        "target": "apiary, bee house",
+        "top1": "umbrella",
+        "top2": "balloon",
+        "top3": "bow",
+        "top4": "stretcher",
+        "top5": "apiary, bee house"
+    },
+    "237": {
+        "target": "water bottle",
+        "top1": "soap dispenser",
+        "top2": "water bottle",
+        "top3": "water jug",
+        "top4": "perfume, essence",
+        "top5": "lotion"
+    },
+    "241": {
+        "target": "water jug",
+        "top1": "pitcher, ewer",
+        "top2": "water jug",
+        "top3": "whiskey jug",
+        "top4": "beer glass",
+        "top5": "coffeepot"
+    },
+    "244": {
+        "target": "laptop, laptop computer",
+        "top1": "notebook, notebook computer",
+        "top2": "laptop, laptop computer",
+        "top3": "desktop computer",
+        "top4": "web site, website, internet site, site",
+        "top5": "screen, CRT screen"
+    },
+    "246": {
+        "target": "stage",
+        "top1": "spotlight, spot",
+        "top2": "stage",
+        "top3": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "top4": "planetarium",
+        "top5": "theater curtain, theatre curtain"
+    },
+    "247": {
+        "target": "electric locomotive",
+        "top1": "streetcar, tram, tramcar, trolley, trolley car",
+        "top2": "passenger car, coach, carriage",
+        "top3": "electric locomotive",
+        "top4": "bullet train, bullet",
+        "top5": "freight car"
+    },
+    "269": {
+        "target": "parallel bars, bars",
+        "top1": "horizontal bar, high bar",
+        "top2": "parallel bars, bars",
+        "top3": "balance beam, beam",
+        "top4": "pole",
+        "top5": "barbell"
+    },
+    "270": {
+        "target": "ram, tup",
+        "top1": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+        "top2": "ram, tup",
+        "top3": "ibex, Capra ibex",
+        "top4": "zebra",
+        "top5": "bison"
+    },
+    "271": {
+        "target": "Great Dane",
+        "top1": "dalmatian, coach dog, carriage dog",
+        "top2": "Great Dane",
+        "top3": "boxer",
+        "top4": "Italian greyhound",
+        "top5": "Rhodesian ridgeback"
+    },
+    "304": {
+        "target": "barrow, garden cart, lawn cart, wheelbarrow",
+        "top1": "apiary, bee house",
+        "top2": "yurt",
+        "top3": "barrow, garden cart, lawn cart, wheelbarrow",
+        "top4": "mobile home, manufactured home",
+        "top5": "patio, terrace"
+    },
+    "312": {
+        "target": "sports car, sport car",
+        "top1": "cab, hack, taxi, taxicab",
+        "top2": "racer, race car, racing car",
+        "top3": "sports car, sport car",
+        "top4": "grille, radiator grille",
+        "top5": "car wheel"
+    },
+    "327": {
+        "target": "dam, dike, dyke",
+        "top1": "lakeside, lakeshore",
+        "top2": "alp",
+        "top3": "dam, dike, dyke",
+        "top4": "valley, vale",
+        "top5": "volcano"
+    },
+    "333": {
+        "target": "harvester, reaper",
+        "top1": "tractor",
+        "top2": "harvester, reaper",
+        "top3": "thresher, thrasher, threshing machine",
+        "top4": "snowplow, snowplough",
+        "top5": "tow truck, tow car, wrecker"
+    },
+    "343": {
+        "target": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+        "top1": "gas pump, gasoline pump, petrol pump, island dispenser",
+        "top2": "washer, automatic washer, washing machine",
+        "top3": "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",
+        "top4": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+        "top5": "seat belt, seatbelt"
+    },
+    "344": {
+        "target": "monitor",
+        "top1": "radio, wireless",
+        "top2": "microphone, mike",
+        "top3": "screen, CRT screen",
+        "top4": "monitor",
+        "top5": "modem"
+    },
+    "345": {
+        "target": "English setter",
+        "top1": "Brittany spaniel",
+        "top2": "English setter",
+        "top3": "Saint Bernard, St Bernard",
+        "top4": "Welsh springer spaniel",
+        "top5": "collie"
+    },
+    "347": {
+        "target": "school bus",
+        "top1": "trolleybus, trolley coach, trackless trolley",
+        "top2": "streetcar, tram, tramcar, trolley, trolley car",
+        "top3": "school bus",
+        "top4": "passenger car, coach, carriage",
+        "top5": "minibus"
+    },
+    "350": {
+        "target": "monastery",
+        "top1": "vault",
+        "top2": "triumphal arch",
+        "top3": "viaduct",
+        "top4": "monastery",
+        "top5": "castle"
+    },
+    "355": {
+        "target": "hair spray",
+        "top1": "lotion",
+        "top2": "hair spray",
+        "top3": "sunscreen, sunblock, sun blocker",
+        "top4": "perfume, essence",
+        "top5": "face powder"
+    },
+    "360": {
+        "target": "vacuum, vacuum cleaner",
+        "top1": "lawn mower, mower",
+        "top2": "vacuum, vacuum cleaner",
+        "top3": "broom",
+        "top4": "swab, swob, mop",
+        "top5": "plow, plough"
+    },
+    "362": {
+        "target": "comic book",
+        "top1": "library",
+        "top2": "bookshop, bookstore, bookstall",
+        "top3": "toyshop",
+        "top4": "grocery store, grocery, food market, market",
+        "top5": "comic book"
+    },
+    "368": {
+        "target": "castle",
+        "top1": "palace",
+        "top2": "triumphal arch",
+        "top3": "castle",
+        "top4": "dome",
+        "top5": "library"
+    },
+    "380": {
+        "target": "black-footed ferret, ferret, Mustela nigripes",
+        "top1": "weasel",
+        "top2": "black-footed ferret, ferret, Mustela nigripes",
+        "top3": "polecat, fitch, foulmart, foumart, Mustela putorius",
+        "top4": "mink",
+        "top5": "hamster"
+    },
+    "381": {
+        "target": "megalith, megalithic structure",
+        "top1": "maze, labyrinth",
+        "top2": "megalith, megalithic structure",
+        "top3": "hay",
+        "top4": "coil, spiral, volute, whorl, helix",
+        "top5": "worm fence, snake fence, snake-rail fence, Virginia fence"
+    },
+    "391": {
+        "target": "overskirt",
+        "top1": "bonnet, poke bonnet",
+        "top2": "overskirt",
+        "top3": "Christmas stocking",
+        "top4": "mailbag, postbag",
+        "top5": "pillow"
+    },
+    "401": {
+        "target": "mushroom",
+        "top1": "agaric",
+        "top2": "mushroom",
+        "top3": "bolete",
+        "top4": "stinkhorn, carrion fungus",
+        "top5": "coral fungus"
+    },
+    "412": {
+        "target": "miniature schnauzer",
+        "top1": "standard schnauzer",
+        "top2": "miniature schnauzer",
+        "top3": "giant schnauzer",
+        "top4": "Old English sheepdog, bobtail",
+        "top5": "Bouvier des Flandres, Bouviers des Flandres"
+    },
+    "413": {
+        "target": "eggnog",
+        "top1": "pop bottle, soda bottle",
+        "top2": "eggnog",
+        "top3": "water bottle",
+        "top4": "beer bottle",
+        "top5": "nipple"
+    },
+    "452": {
+        "target": "cocker spaniel, English cocker spaniel, cocker",
+        "top1": "Irish setter, red setter",
+        "top2": "Sussex spaniel",
+        "top3": "cocker spaniel, English cocker spaniel, cocker",
+        "top4": "Gordon setter",
+        "top5": "golden retriever"
+    },
+    "456": {
+        "target": "wool, woolen, woollen",
+        "top1": "sock",
+        "top2": "wool, woolen, woollen",
+        "top3": "mitten",
+        "top4": "teddy, teddy bear",
+        "top5": "bonnet, poke bonnet"
+    },
+    "457": {
+        "target": "Lhasa, Lhasa apso",
+        "top1": "Maltese dog, Maltese terrier, Maltese",
+        "top2": "Lhasa, Lhasa apso",
+        "top3": "Tibetan terrier, chrysanthemum dog",
+        "top4": "Shih-Tzu",
+        "top5": "Japanese spaniel"
+    },
+    "463": {
+        "target": "laptop, laptop computer",
+        "top1": "notebook, notebook computer",
+        "top2": "laptop, laptop computer",
+        "top3": "space bar",
+        "top4": "modem",
+        "top5": "hand-held computer, hand-held microcomputer"
+    },
+    "473": {
+        "target": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top1": "dock, dockage, docking facility",
+        "top2": "pier",
+        "top3": "lakeside, lakeshore",
+        "top4": "dam, dike, dyke",
+        "top5": "breakwater, groin, groyne, mole, bulwark, seawall, jetty"
+    },
+    "474": {
+        "target": "Windsor tie",
+        "top1": "suit, suit of clothes",
+        "top2": "miniskirt, mini",
+        "top3": "Windsor tie",
+        "top4": "bow tie, bow-tie, bowtie",
+        "top5": "slot, one-armed bandit"
+    },
+    "481": {
+        "target": "pitcher, ewer",
+        "top1": "water jug",
+        "top2": "saltshaker, salt shaker",
+        "top3": "pitcher, ewer",
+        "top4": "whiskey jug",
+        "top5": "coffeepot"
+    },
+    "484": {
+        "target": "briard",
+        "top1": "Bouvier des Flandres, Bouviers des Flandres",
+        "top2": "Newfoundland, Newfoundland dog",
+        "top3": "miniature poodle",
+        "top4": "briard",
+        "top5": "giant schnauzer"
+    },
+    "487": {
+        "target": "hard disc, hard disk, fixed disk",
+        "top1": "desktop computer",
+        "top2": "oscilloscope, scope, cathode-ray oscilloscope, CRO",
+        "top3": "screen, CRT screen",
+        "top4": "hard disc, hard disk, fixed disk",
+        "top5": "monitor"
+    },
+    "489": {
+        "target": "lakeside, lakeshore",
+        "top1": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top2": "lakeside, lakeshore",
+        "top3": "dam, dike, dyke",
+        "top4": "pier",
+        "top5": "dock, dockage, docking facility"
+    },
+    "502": {
+        "target": "cocker spaniel, English cocker spaniel, cocker",
+        "top1": "teddy, teddy bear",
+        "top2": "wig",
+        "top3": "bearskin, busby, shako",
+        "top4": "toy poodle",
+        "top5": "cocker spaniel, English cocker spaniel, cocker"
+    },
+    "505": {
+        "target": "stingray",
+        "top1": "electric ray, crampfish, numbfish, torpedo",
+        "top2": "scuba diver",
+        "top3": "stingray",
+        "top4": "loggerhead, loggerhead turtle, Caretta caretta",
+        "top5": "hammerhead, hammerhead shark"
+    },
+    "513": {
+        "target": "comic book",
+        "top1": "slot, one-armed bandit",
+        "top2": "comic book",
+        "top3": "toyshop",
+        "top4": "digital clock",
+        "top5": "carousel, carrousel, merry-go-round, roundabout, whirligig"
+    },
+    "514": {
+        "target": "triumphal arch",
+        "top1": "palace",
+        "top2": "monastery",
+        "top3": "mosque",
+        "top4": "triumphal arch",
+        "top5": "abaya"
+    },
+    "518": {
+        "target": "French horn, horn",
+        "top1": "cornet, horn, trumpet, trump",
+        "top2": "French horn, horn",
+        "top3": "trombone",
+        "top4": "sax, saxophone",
+        "top5": "corkscrew, bottle screw"
+    },
+    "519": {
+        "target": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        "top1": "cassette player",
+        "top2": "tape player",
+        "top3": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        "top4": "radio, wireless",
+        "top5": "CD player"
+    },
+    "528": {
+        "target": "bustard",
+        "top1": "black grouse",
+        "top2": "bustard",
+        "top3": "goose",
+        "top4": "European gallinule, Porphyrio porphyrio",
+        "top5": "prairie chicken, prairie grouse, prairie fowl"
+    },
+    "530": {
+        "target": "bathing cap, swimming cap",
+        "top1": "maillot",
+        "top2": "bikini, two-piece",
+        "top3": "maillot, tank suit",
+        "top4": "brassiere, bra, bandeau",
+        "top5": "bathing cap, swimming cap"
+    },
+    "552": {
+        "target": "Polaroid camera, Polaroid Land camera",
+        "top1": "tape player",
+        "top2": "cassette player",
+        "top3": "Polaroid camera, Polaroid Land camera",
+        "top4": "cassette",
+        "top5": "toaster"
+    },
+    "556": {
+        "target": "whippet",
+        "top1": "Saluki, gazelle hound",
+        "top2": "whippet",
+        "top3": "Ibizan hound, Ibizan Podenco",
+        "top4": "Appenzeller",
+        "top5": "Great Dane"
+    },
+    "559": {
+        "target": "barometer",
+        "top1": "wall clock",
+        "top2": "analog clock",
+        "top3": "barometer",
+        "top4": "shield, buckler",
+        "top5": "dome"
+    },
+    "569": {
+        "target": "titi, titi monkey",
+        "top1": "squirrel monkey, Saimiri sciureus",
+        "top2": "titi, titi monkey",
+        "top3": "spider monkey, Ateles geoffroyi",
+        "top4": "howler monkey, howler",
+        "top5": "capuchin, ringtail, Cebus capucinus"
+    },
+    "585": {
+        "target": "spider monkey, Ateles geoffroyi",
+        "top1": "squirrel monkey, Saimiri sciureus",
+        "top2": "titi, titi monkey",
+        "top3": "spider monkey, Ateles geoffroyi",
+        "top4": "patas, hussar monkey, Erythrocebus patas",
+        "top5": "capuchin, ringtail, Cebus capucinus"
+    },
+    "595": {
+        "target": "swimming trunks, bathing trunks",
+        "top1": "lifeboat",
+        "top2": "seashore, coast, seacoast, sea-coast",
+        "top3": "speedboat",
+        "top4": "sandbar, sand bar",
+        "top5": "swimming trunks, bathing trunks"
+    },
+    "599": {
+        "target": "Egyptian cat",
+        "top1": "mouse, computer mouse",
+        "top2": "computer keyboard, keypad",
+        "top3": "tiger cat",
+        "top4": "tabby, tabby cat",
+        "top5": "Egyptian cat"
+    },
+    "603": {
+        "target": "dock, dockage, docking facility",
+        "top1": "container ship, containership, container vessel",
+        "top2": "dock, dockage, docking facility",
+        "top3": "drilling platform, offshore rig",
+        "top4": "liner, ocean liner",
+        "top5": "crane"
+    },
+    "605": {
+        "target": "coil, spiral, volute, whorl, helix",
+        "top1": "dome",
+        "top2": "vault",
+        "top3": "palace",
+        "top4": "coil, spiral, volute, whorl, helix",
+        "top5": "planetarium"
+    },
+    "613": {
+        "target": "rock crab, Cancer irroratus",
+        "top1": "Dungeness crab, Cancer magister",
+        "top2": "rock crab, Cancer irroratus",
+        "top3": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        "top4": "fiddler crab",
+        "top5": "chiton, coat-of-mail shell, sea cradle, polyplacophore"
+    },
+    "619": {
+        "target": "prison, prison house",
+        "top1": "plunger, plumber's helper",
+        "top2": "water bottle",
+        "top3": "bucket, pail",
+        "top4": "prison, prison house",
+        "top5": "bubble"
+    },
+    "629": {
+        "target": "spider monkey, Ateles geoffroyi",
+        "top1": "howler monkey, howler",
+        "top2": "spider monkey, Ateles geoffroyi",
+        "top3": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+        "top4": "gibbon, Hylobates lar",
+        "top5": "capuchin, ringtail, Cebus capucinus"
+    },
+    "632": {
+        "target": "black-and-tan coonhound",
+        "top1": "Doberman, Doberman pinscher",
+        "top2": "Rottweiler",
+        "top3": "black-and-tan coonhound",
+        "top4": "miniature pinscher",
+        "top5": "muzzle"
+    },
+    "639": {
+        "target": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "top1": "lighter, light, igniter, ignitor",
+        "top2": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "top3": "television, television system",
+        "top4": "traffic light, traffic signal, stoplight",
+        "top5": "fountain"
+    },
+    "649": {
+        "target": "cocker spaniel, English cocker spaniel, cocker",
+        "top1": "golden retriever",
+        "top2": "chow, chow chow",
+        "top3": "Tibetan mastiff",
+        "top4": "cocker spaniel, English cocker spaniel, cocker",
+        "top5": "Sussex spaniel"
+    },
+    "657": {
+        "target": "ruffed grouse, partridge, Bonasa umbellus",
+        "top1": "American black bear, black bear, Ursus americanus, Euarctos americanus",
+        "top2": "ruffed grouse, partridge, Bonasa umbellus",
+        "top3": "brown bear, bruin, Ursus arctos",
+        "top4": "skunk, polecat, wood pussy",
+        "top5": "grey fox, gray fox, Urocyon cinereoargenteus"
+    },
+    "658": {
+        "target": "Greater Swiss Mountain dog",
+        "top1": "Bernese mountain dog",
+        "top2": "Greater Swiss Mountain dog",
+        "top3": "EntleBucher",
+        "top4": "Appenzeller",
+        "top5": "Cardigan, Cardigan Welsh corgi"
+    },
+    "663": {
+        "target": "white stork, Ciconia ciconia",
+        "top1": "castle",
+        "top2": "bald eagle, American eagle, Haliaeetus leucocephalus",
+        "top3": "white stork, Ciconia ciconia",
+        "top4": "magpie",
+        "top5": "alp"
+    },
+    "666": {
+        "target": "hair slide",
+        "top1": "bonnet, poke bonnet",
+        "top2": "balloon",
+        "top3": "hoopskirt, crinoline",
+        "top4": "hair slide",
+        "top5": "parachute, chute"
+    },
+    "668": {
+        "target": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        "top1": "knot",
+        "top2": "chain",
+        "top3": "coil, spiral, volute, whorl, helix",
+        "top4": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        "top5": "padlock"
+    },
+    "672": {
+        "target": "African elephant, Loxodonta africana",
+        "top1": "Indian elephant, Elephas maximus",
+        "top2": "African elephant, Loxodonta africana",
+        "top3": "tusker",
+        "top4": "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+        "top5": "Arabian camel, dromedary, Camelus dromedarius"
+    },
+    "676": {
+        "target": "wire-haired fox terrier",
+        "top1": "Lakeland terrier",
+        "top2": "wire-haired fox terrier",
+        "top3": "Sealyham terrier, Sealyham",
+        "top4": "Bedlington terrier",
+        "top5": "soft-coated wheaten terrier"
+    },
+    "684": {
+        "target": "plow, plough",
+        "top1": "barrow, garden cart, lawn cart, wheelbarrow",
+        "top2": "plow, plough",
+        "top3": "tricycle, trike, velocipede",
+        "top4": "lawn mower, mower",
+        "top5": "tractor"
+    },
+    "688": {
+        "target": "brassiere, bra, bandeau",
+        "top1": "maillot",
+        "top2": "bikini, two-piece",
+        "top3": "brassiere, bra, bandeau",
+        "top4": "maillot, tank suit",
+        "top5": "rule, ruler"
+    },
+    "690": {
+        "target": "African elephant, Loxodonta africana",
+        "top1": "tusker",
+        "top2": "Indian elephant, Elephas maximus",
+        "top3": "African elephant, Loxodonta africana",
+        "top4": "water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",
+        "top5": "warthog"
+    },
+    "697": {
+        "target": "kuvasz",
+        "top1": "Samoyed, Samoyede",
+        "top2": "Great Pyrenees",
+        "top3": "kuvasz",
+        "top4": "chow, chow chow",
+        "top5": "golden retriever"
+    },
+    "698": {
+        "target": "fiddler crab",
+        "top1": "rock crab, Cancer irroratus",
+        "top2": "fiddler crab",
+        "top3": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",
+        "top4": "Dungeness crab, Cancer magister",
+        "top5": "crayfish, crawfish, crawdad, crawdaddy"
+    },
+    "703": {
+        "target": "Appenzeller",
+        "top1": "Greater Swiss Mountain dog",
+        "top2": "EntleBucher",
+        "top3": "Appenzeller",
+        "top4": "Bernese mountain dog",
+        "top5": "Rottweiler"
+    },
+    "719": {
+        "target": "comic book",
+        "top1": "bookshop, bookstore, bookstall",
+        "top2": "comic book",
+        "top3": "library",
+        "top4": "suit, suit of clothes",
+        "top5": "steel drum"
+    },
+    "720": {
+        "target": "wolf spider, hunting spider",
+        "top1": "rock crab, Cancer irroratus",
+        "top2": "fiddler crab",
+        "top3": "wolf spider, hunting spider",
+        "top4": "tarantula",
+        "top5": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+    },
+    "723": {
+        "target": "pencil sharpener",
+        "top1": "rubber eraser, rubber, pencil eraser",
+        "top2": "rule, ruler",
+        "top3": "pencil sharpener",
+        "top4": "pencil box, pencil case",
+        "top5": "screwdriver"
+    },
+    "729": {
+        "target": "barbell",
+        "top1": "dumbbell",
+        "top2": "barbell",
+        "top3": "abacus",
+        "top4": "disk brake, disc brake",
+        "top5": "plunger, plumber's helper"
+    },
+    "739": {
+        "target": "African elephant, Loxodonta africana",
+        "top1": "Indian elephant, Elephas maximus",
+        "top2": "African elephant, Loxodonta africana",
+        "top3": "tusker",
+        "top4": "hippopotamus, hippo, river horse, Hippopotamus amphibius",
+        "top5": "zebra"
+    },
+    "746": {
+        "target": "parallel bars, bars",
+        "top1": "balance beam, beam",
+        "top2": "parallel bars, bars",
+        "top3": "harmonica, mouth organ, harp, mouth harp",
+        "top4": "bannister, banister, balustrade, balusters, handrail",
+        "top5": "horizontal bar, high bar"
+    },
+    "750": {
+        "target": "plow, plough",
+        "top1": "crutch",
+        "top2": "bow",
+        "top3": "plow, plough",
+        "top4": "mousetrap",
+        "top5": "stretcher"
+    },
+    "757": {
+        "target": "Labrador retriever",
+        "top1": "golden retriever",
+        "top2": "Labrador retriever",
+        "top3": "chow, chow chow",
+        "top4": "beagle",
+        "top5": "tiger cat"
+    },
+    "762": {
+        "target": "padlock",
+        "top1": "combination lock",
+        "top2": "padlock",
+        "top3": "switch, electric switch, electrical switch",
+        "top4": "whistle",
+        "top5": "hook, claw"
+    },
+    "766": {
+        "target": "Appenzeller",
+        "top1": "Greater Swiss Mountain dog",
+        "top2": "Appenzeller",
+        "top3": "EntleBucher",
+        "top4": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+        "top5": "Bernese mountain dog"
+    },
+    "770": {
+        "target": "bib",
+        "top1": "bath towel",
+        "top2": "nipple",
+        "top3": "bib",
+        "top4": "diaper, nappy, napkin",
+        "top5": "handkerchief, hankie, hanky, hankey"
+    },
+    "772": {
+        "target": "assault rifle, assault gun",
+        "top1": "bulletproof vest",
+        "top2": "assault rifle, assault gun",
+        "top3": "military uniform",
+        "top4": "rifle",
+        "top5": "ski mask"
+    },
+    "777": {
+        "target": "safety pin",
+        "top1": "coil, spiral, volute, whorl, helix",
+        "top2": "safety pin",
+        "top3": "hair slide",
+        "top4": "hook, claw",
+        "top5": "chain"
+    },
+    "779": {
+        "target": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "top1": "barbershop",
+        "top2": "cinema, movie theater, movie theatre, movie house, picture palace",
+        "top3": "tobacco shop, tobacconist shop, tobacconist",
+        "top4": "restaurant, eating house, eating place, eatery",
+        "top5": "bakery, bakeshop, bakehouse"
+    },
+    "783": {
+        "target": "mailbag, postbag",
+        "top1": "screen, CRT screen",
+        "top2": "monitor",
+        "top3": "television, television system",
+        "top4": "purse",
+        "top5": "mailbag, postbag"
+    },
+    "785": {
+        "target": "Walker hound, Walker foxhound",
+        "top1": "basset, basset hound",
+        "top2": "Walker hound, Walker foxhound",
+        "top3": "beagle",
+        "top4": "English foxhound",
+        "top5": "basenji"
+    },
+    "788": {
+        "target": "fox squirrel, eastern fox squirrel, Sciurus niger",
+        "top1": "refrigerator, icebox",
+        "top2": "fox squirrel, eastern fox squirrel, Sciurus niger",
+        "top3": "medicine chest, medicine cabinet",
+        "top4": "pop bottle, soda bottle",
+        "top5": "vending machine"
+    },
+    "797": {
+        "target": "tabby, tabby cat",
+        "top1": "piggy bank, penny bank",
+        "top2": "tabby, tabby cat",
+        "top3": "Egyptian cat",
+        "top4": "tiger cat",
+        "top5": "vase"
+    },
+    "800": {
+        "target": "gibbon, Hylobates lar",
+        "top1": "langur",
+        "top2": "gibbon, Hylobates lar",
+        "top3": "colobus, colobus monkey",
+        "top4": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+        "top5": "guenon, guenon monkey"
+    },
+    "812": {
+        "target": "gown",
+        "top1": "hoopskirt, crinoline",
+        "top2": "gown",
+        "top3": "overskirt",
+        "top4": "groom, bridegroom",
+        "top5": "sarong"
+    },
+    "816": {
+        "target": "electric guitar",
+        "top1": "stage",
+        "top2": "violin, fiddle",
+        "top3": "electric guitar",
+        "top4": "microphone, mike",
+        "top5": "cello, violoncello"
+    },
+    "821": {
+        "target": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        "top1": "acorn",
+        "top2": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        "top3": "dung beetle",
+        "top4": "sea urchin",
+        "top5": "hermit crab"
+    },
+    "828": {
+        "target": "hand-held computer, hand-held microcomputer",
+        "top1": "remote control, remote",
+        "top2": "hand-held computer, hand-held microcomputer",
+        "top3": "modem",
+        "top4": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+        "top5": "radio, wireless"
+    },
+    "831": {
+        "target": "abaya",
+        "top1": "kimono",
+        "top2": "sarong",
+        "top3": "sweatshirt",
+        "top4": "abaya",
+        "top5": "jersey, T-shirt, tee shirt"
+    },
+    "832": {
+        "target": "digital watch",
+        "top1": "stopwatch, stop watch",
+        "top2": "digital watch",
+        "top3": "analog clock",
+        "top4": "barometer",
+        "top5": "magnetic compass"
+    },
+    "846": {
+        "target": "hot pot, hotpot",
+        "top1": "Crock Pot",
+        "top2": "hot pot, hotpot",
+        "top3": "caldron, cauldron",
+        "top4": "Dutch oven",
+        "top5": "wok"
+    },
+    "849": {
+        "target": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        "top1": "bullfrog, Rana catesbeiana",
+        "top2": "tree frog, tree-frog",
+        "top3": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        "top4": "American chameleon, anole, Anolis carolinensis",
+        "top5": "green lizard, Lacerta viridis"
+    },
+    "857": {
+        "target": "caldron, cauldron",
+        "top1": "stove",
+        "top2": "caldron, cauldron",
+        "top3": "wok",
+        "top4": "ladle",
+        "top5": "dishwasher, dish washer, dishwashing machine"
+    },
+    "860": {
+        "target": "Petri dish",
+        "top1": "cup",
+        "top2": "Petri dish",
+        "top3": "espresso",
+        "top4": "coffee mug",
+        "top5": "eggnog"
+    },
+    "864": {
+        "target": "stinkhorn, carrion fungus",
+        "top1": "earthstar",
+        "top2": "stinkhorn, carrion fungus",
+        "top3": "acorn",
+        "top4": "hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",
+        "top5": "buckeye, horse chestnut, conker"
+    },
+    "870": {
+        "target": "butternut squash",
+        "top1": "soup bowl",
+        "top2": "mixing bowl",
+        "top3": "mashed potato",
+        "top4": "butternut squash",
+        "top5": "consomme"
+    },
+    "876": {
+        "target": "ox",
+        "top1": "lakeside, lakeshore",
+        "top2": "worm fence, snake fence, snake-rail fence, Virginia fence",
+        "top3": "ox",
+        "top4": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top5": "seashore, coast, seacoast, sea-coast"
+    },
+    "878": {
+        "target": "jellyfish",
+        "top1": "centipede",
+        "top2": "jellyfish",
+        "top3": "scorpion",
+        "top4": "isopod",
+        "top5": "cockroach, roach"
+    },
+    "884": {
+        "target": "cock",
+        "top1": "partridge",
+        "top2": "cock",
+        "top3": "ruffed grouse, partridge, Bonasa umbellus",
+        "top4": "black grouse",
+        "top5": "hen"
+    },
+    "885": {
+        "target": "palace",
+        "top1": "mosque",
+        "top2": "palace",
+        "top3": "church, church building",
+        "top4": "monastery",
+        "top5": "triumphal arch"
+    },
+    "890": {
+        "target": "bakery, bakeshop, bakehouse",
+        "top1": "ice cream, icecream",
+        "top2": "bakery, bakeshop, bakehouse",
+        "top3": "eggnog",
+        "top4": "ice lolly, lolly, lollipop, popsicle",
+        "top5": "orange"
+    },
+    "895": {
+        "target": "Appenzeller",
+        "top1": "Bernese mountain dog",
+        "top2": "Greater Swiss Mountain dog",
+        "top3": "Appenzeller",
+        "top4": "Cardigan, Cardigan Welsh corgi",
+        "top5": "EntleBucher"
+    },
+    "896": {
+        "target": "acoustic guitar",
+        "top1": "electric guitar",
+        "top2": "stage",
+        "top3": "acoustic guitar",
+        "top4": "microphone, mike",
+        "top5": "pick, plectrum, plectron"
+    },
+    "899": {
+        "target": "tiger cat",
+        "top1": "tabby, tabby cat",
+        "top2": "tiger cat",
+        "top3": "Egyptian cat",
+        "top4": "crib, cot",
+        "top5": "quilt, comforter, comfort, puff"
+    },
+    "903": {
+        "target": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+        "top1": "chimpanzee, chimp, Pan troglodytes",
+        "top2": "siamang, Hylobates syndactylus, Symphalangus syndactylus",
+        "top3": "gibbon, Hylobates lar",
+        "top4": "macaque",
+        "top5": "gorilla, Gorilla gorilla"
+    },
+    "905": {
+        "target": "plastic bag",
+        "top1": "artichoke, globe artichoke",
+        "top2": "plastic bag",
+        "top3": "cauliflower",
+        "top4": "ear, spike, capitulum",
+        "top5": "corn"
+    },
+    "908": {
+        "target": "moped",
+        "top1": "bicycle-built-for-two, tandem bicycle, tandem",
+        "top2": "mountain bike, all-terrain bike, off-roader",
+        "top3": "tricycle, trike, velocipede",
+        "top4": "jinrikisha, ricksha, rickshaw",
+        "top5": "moped"
+    },
+    "909": {
+        "target": "Appenzeller",
+        "top1": "Greater Swiss Mountain dog",
+        "top2": "EntleBucher",
+        "top3": "Appenzeller",
+        "top4": "Walker hound, Walker foxhound",
+        "top5": "beagle"
+    },
+    "911": {
+        "target": "strainer",
+        "top1": "chain",
+        "top2": "honeycomb",
+        "top3": "knot",
+        "top4": "strainer",
+        "top5": "coil, spiral, volute, whorl, helix"
+    },
+    "927": {
+        "target": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top1": "beacon, lighthouse, beacon light, pharos",
+        "top2": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top3": "lifeboat",
+        "top4": "promontory, headland, head, foreland",
+        "top5": "pole"
+    },
+    "940": {
+        "target": "thimble",
+        "top1": "window shade",
+        "top2": "thimble",
+        "top3": "chime, bell, gong",
+        "top4": "lampshade, lamp shade",
+        "top5": "whistle"
+    },
+    "946": {
+        "target": "drum, membranophone, tympan",
+        "top1": "shield, buckler",
+        "top2": "swing",
+        "top3": "bow",
+        "top4": "drum, membranophone, tympan",
+        "top5": "steel drum"
+    },
+    "949": {
+        "target": "lemon",
+        "top1": "shopping basket",
+        "top2": "lemon",
+        "top3": "orange",
+        "top4": "hamper",
+        "top5": "Granny Smith"
+    },
+    "951": {
+        "target": "soft-coated wheaten terrier",
+        "top1": "Irish terrier",
+        "top2": "soft-coated wheaten terrier",
+        "top3": "Border terrier",
+        "top4": "Norfolk terrier",
+        "top5": "Brabancon griffon"
+    },
+    "957": {
+        "target": "scuba diver",
+        "top1": "snorkel",
+        "top2": "scuba diver",
+        "top3": "oxygen mask",
+        "top4": "gasmask, respirator, gas helmet",
+        "top5": "coral reef"
+    },
+    "958": {
+        "target": "spindle",
+        "top1": "safety pin",
+        "top2": "corkscrew, bottle screw",
+        "top3": "stethoscope",
+        "top4": "perfume, essence",
+        "top5": "spindle"
+    },
+    "970": {
+        "target": "crane",
+        "top1": "little blue heron, Egretta caerulea",
+        "top2": "American egret, great white heron, Egretta albus",
+        "top3": "crane",
+        "top4": "bittern",
+        "top5": "pelican"
+    },
+    "976": {
+        "target": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+        "top1": "hognose snake, puff adder, sand viper",
+        "top2": "sidewinder, horned rattlesnake, Crotalus cerastes",
+        "top3": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+        "top4": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+        "top5": "night snake, Hypsiglena torquata"
+    },
+    "983": {
+        "target": "water jug",
+        "top1": "pitcher, ewer",
+        "top2": "water jug",
+        "top3": "coffeepot",
+        "top4": "coffee mug",
+        "top5": "vase"
+    },
+    "987": {
+        "target": "garter snake, grass snake",
+        "top1": "whiptail, whiptail lizard",
+        "top2": "thunder snake, worm snake, Carphophis amoenus",
+        "top3": "garter snake, grass snake",
+        "top4": "night snake, Hypsiglena torquata",
+        "top5": "hognose snake, puff adder, sand viper"
+    },
+    "992": {
+        "target": "umbrella",
+        "top1": "prison, prison house",
+        "top2": "bannister, banister, balustrade, balusters, handrail",
+        "top3": "umbrella",
+        "top4": "cowboy hat, ten-gallon hat",
+        "top5": "padlock"
+    },
+    "993": {
+        "target": "scorpion",
+        "top1": "rule, ruler",
+        "top2": "tick",
+        "top3": "wolf spider, hunting spider",
+        "top4": "barn spider, Araneus cavaticus",
+        "top5": "scorpion"
+    },
+    "996": {
+        "target": "Kerry blue terrier",
+        "top1": "toy poodle",
+        "top2": "standard poodle",
+        "top3": "miniature poodle",
+        "top4": "teddy, teddy bear",
+        "top5": "Kerry blue terrier"
+    },
+    "1006": {
+        "target": "oxygen mask",
+        "top1": "gasmask, respirator, gas helmet",
+        "top2": "oxygen mask",
+        "top3": "mask",
+        "top4": "trench coat",
+        "top5": "iron, smoothing iron"
+    },
+    "1012": {
+        "target": "laptop, laptop computer",
+        "top1": "notebook, notebook computer",
+        "top2": "laptop, laptop computer",
+        "top3": "hand-held computer, hand-held microcomputer",
+        "top4": "desktop computer",
+        "top5": "space bar"
+    },
+    "1014": {
+        "target": "seat belt, seatbelt",
+        "top1": "hook, claw",
+        "top2": "seat belt, seatbelt",
+        "top3": "switch, electric switch, electrical switch",
+        "top4": "pole",
+        "top5": "knot"
+    },
+    "1015": {
+        "target": "isopod",
+        "top1": "sea slug, nudibranch",
+        "top2": "isopod",
+        "top3": "flatworm, platyhelminth",
+        "top4": "starfish, sea star",
+        "top5": "rock crab, Cancer irroratus"
+    },
+    "1020": {
+        "target": "EntleBucher",
+        "top1": "Appenzeller",
+        "top2": "Greater Swiss Mountain dog",
+        "top3": "EntleBucher",
+        "top4": "Doberman, Doberman pinscher",
+        "top5": "Walker hound, Walker foxhound"
+    },
+    "1026": {
+        "target": "goldfinch, Carduelis carduelis",
+        "top1": "brambling, Fringilla montifringilla",
+        "top2": "goldfinch, Carduelis carduelis",
+        "top3": "junco, snowbird",
+        "top4": "house finch, linnet, Carpodacus mexicanus",
+        "top5": "chickadee"
+    },
+    "1034": {
+        "target": "dingo, warrigal, warragal, Canis dingo",
+        "top1": "white wolf, Arctic wolf, Canis lupus tundrarum",
+        "top2": "Eskimo dog, husky",
+        "top3": "Siberian husky",
+        "top4": "dingo, warrigal, warragal, Canis dingo",
+        "top5": "timber wolf, grey wolf, gray wolf, Canis lupus"
+    },
+    "1039": {
+        "target": "maillot",
+        "top1": "bikini, two-piece",
+        "top2": "maillot",
+        "top3": "maillot, tank suit",
+        "top4": "brassiere, bra, bandeau",
+        "top5": "miniskirt, mini"
+    },
+    "1040": {
+        "target": "redbone",
+        "top1": "Staffordshire bullterrier, Staffordshire bull terrier",
+        "top2": "Rhodesian ridgeback",
+        "top3": "redbone",
+        "top4": "American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",
+        "top5": "boxer"
+    },
+    "1046": {
+        "target": "diaper, nappy, napkin",
+        "top1": "sunscreen, sunblock, sun blocker",
+        "top2": "diaper, nappy, napkin",
+        "top3": "sunglass",
+        "top4": "paintbrush",
+        "top5": "syringe"
+    },
+    "1048": {
+        "target": "ladle",
+        "top1": "perfume, essence",
+        "top2": "ladle",
+        "top3": "mouse, computer mouse",
+        "top4": "red wine",
+        "top5": "chime, bell, gong"
+    },
+    "1055": {
+        "target": "wallet, billfold, notecase, pocketbook",
+        "top1": "packet",
+        "top2": "wallet, billfold, notecase, pocketbook",
+        "top3": "envelope",
+        "top4": "mailbag, postbag",
+        "top5": "Band Aid"
+    },
+    "1056": {
+        "target": "flagpole, flagstaff",
+        "top1": "balloon",
+        "top2": "airship, dirigible",
+        "top3": "water tower",
+        "top4": "flagpole, flagstaff",
+        "top5": "scoreboard"
+    },
+    "1057": {
+        "target": "overskirt",
+        "top1": "miniskirt, mini",
+        "top2": "overskirt",
+        "top3": "apron",
+        "top4": "sarong",
+        "top5": "velvet"
+    },
+    "1059": {
+        "target": "Arabian camel, dromedary, Camelus dromedarius",
+        "top1": "gazelle",
+        "top2": "impala, Aepyceros melampus",
+        "top3": "Arabian camel, dromedary, Camelus dromedarius",
+        "top4": "llama",
+        "top5": "flamingo"
+    },
+    "1062": {
+        "target": "rotisserie",
+        "top1": "tobacco shop, tobacconist shop, tobacconist",
+        "top2": "bakery, bakeshop, bakehouse",
+        "top3": "rotisserie",
+        "top4": "confectionery, confectionary, candy store",
+        "top5": "upright, upright piano"
+    },
+    "1081": {
+        "target": "racer, race car, racing car",
+        "top1": "cliff, drop, drop-off",
+        "top2": "valley, vale",
+        "top3": "racer, race car, racing car",
+        "top4": "golfcart, golf cart",
+        "top5": "sandbar, sand bar"
+    },
+    "1084": {
+        "target": "spaghetti squash",
+        "top1": "lemon",
+        "top2": "spaghetti squash",
+        "top3": "orange",
+        "top4": "banana",
+        "top5": "grocery store, grocery, food market, market"
+    },
+    "1087": {
+        "target": "corkscrew, bottle screw",
+        "top1": "quill, quill pen",
+        "top2": "bow",
+        "top3": "microphone, mike",
+        "top4": "corkscrew, bottle screw",
+        "top5": "hook, claw"
+    },
+    "1088": {
+        "target": "teapot",
+        "top1": "coffeepot",
+        "top2": "teapot",
+        "top3": "gong, tam-tam",
+        "top4": "espresso maker",
+        "top5": "water jug"
+    },
+    "1093": {
+        "target": "maillot, tank suit",
+        "top1": "maillot",
+        "top2": "maillot, tank suit",
+        "top3": "bikini, two-piece",
+        "top4": "brassiere, bra, bandeau",
+        "top5": "wig"
+    },
+    "1097": {
+        "target": "Australian terrier",
+        "top1": "Yorkshire terrier",
+        "top2": "Norfolk terrier",
+        "top3": "silky terrier, Sydney silky",
+        "top4": "Maltese dog, Maltese terrier, Maltese",
+        "top5": "Australian terrier"
+    },
+    "1098": {
+        "target": "shoe shop, shoe-shop, shoe store",
+        "top1": "toy poodle",
+        "top2": "miniature poodle",
+        "top3": "shoe shop, shoe-shop, shoe store",
+        "top4": "standard poodle",
+        "top5": "Maltese dog, Maltese terrier, Maltese"
+    },
+    "1101": {
+        "target": "cradle",
+        "top1": "bassinet",
+        "top2": "cradle",
+        "top3": "diaper, nappy, napkin",
+        "top4": "crib, cot",
+        "top5": "sleeping bag"
+    },
+    "1112": {
+        "target": "soup bowl",
+        "top1": "consomme",
+        "top2": "soup bowl",
+        "top3": "wooden spoon",
+        "top4": "ladle",
+        "top5": "eggnog"
+    },
+    "1118": {
+        "target": "table lamp",
+        "top1": "microphone, mike",
+        "top2": "table lamp",
+        "top3": "radio, wireless",
+        "top4": "lampshade, lamp shade",
+        "top5": "spotlight, spot"
+    },
+    "1137": {
+        "target": "toilet tissue, toilet paper, bathroom tissue",
+        "top1": "toilet seat",
+        "top2": "toilet tissue, toilet paper, bathroom tissue",
+        "top3": "plunger, plumber's helper",
+        "top4": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+        "top5": "soap dispenser"
+    },
+    "1140": {
+        "target": "isopod",
+        "top1": "hermit crab",
+        "top2": "isopod",
+        "top3": "conch",
+        "top4": "sea slug, nudibranch",
+        "top5": "snail"
+    },
+    "1156": {
+        "target": "toy terrier",
+        "top1": "Doberman, Doberman pinscher",
+        "top2": "toy terrier",
+        "top3": "miniature pinscher",
+        "top4": "black-and-tan coonhound",
+        "top5": "Mexican hairless"
+    },
+    "1158": {
+        "target": "window screen",
+        "top1": "window shade",
+        "top2": "window screen",
+        "top3": "bannister, banister, balustrade, balusters, handrail",
+        "top4": "radiator",
+        "top5": "pot, flowerpot"
+    },
+    "1162": {
+        "target": "chocolate sauce, chocolate syrup",
+        "top1": "ice cream, icecream",
+        "top2": "plate",
+        "top3": "chocolate sauce, chocolate syrup",
+        "top4": "tray",
+        "top5": "trifle"
+    },
+    "1164": {
+        "target": "cocktail shaker",
+        "top1": "measuring cup",
+        "top2": "spatula",
+        "top3": "cocktail shaker",
+        "top4": "pill bottle",
+        "top5": "syringe"
+    },
+    "1171": {
+        "target": "nematode, nematode worm, roundworm",
+        "top1": "knot",
+        "top2": "nematode, nematode worm, roundworm",
+        "top3": "coil, spiral, volute, whorl, helix",
+        "top4": "coral fungus",
+        "top5": "centipede"
+    },
+    "1173": {
+        "target": "boa constrictor, Constrictor constrictor",
+        "top1": "green snake, grass snake",
+        "top2": "green mamba",
+        "top3": "night snake, Hypsiglena torquata",
+        "top4": "vine snake",
+        "top5": "boa constrictor, Constrictor constrictor"
+    },
+    "1176": {
+        "target": "panpipe, pandean pipe, syrinx",
+        "top1": "sarong",
+        "top2": "maraca",
+        "top3": "panpipe, pandean pipe, syrinx",
+        "top4": "swing",
+        "top5": "bow"
+    },
+    "1182": {
+        "target": "maillot, tank suit",
+        "top1": "bathing cap, swimming cap",
+        "top2": "maillot, tank suit",
+        "top3": "maillot",
+        "top4": "swimming trunks, bathing trunks",
+        "top5": "pole"
+    },
+    "1195": {
+        "target": "eggnog",
+        "top1": "lighter, light, igniter, ignitor",
+        "top2": "coffee mug",
+        "top3": "eggnog",
+        "top4": "cup",
+        "top5": "remote control, remote"
+    },
+    "1203": {
+        "target": "barn",
+        "top1": "church, church building",
+        "top2": "barn",
+        "top3": "birdhouse",
+        "top4": "picket fence, paling",
+        "top5": "thatch, thatched roof"
+    },
+    "1210": {
+        "target": "mouse, computer mouse",
+        "top1": "seat belt, seatbelt",
+        "top2": "car mirror",
+        "top3": "traffic light, traffic signal, stoplight",
+        "top4": "mouse, computer mouse",
+        "top5": "digital clock"
+    },
+    "1213": {
+        "target": "cloak",
+        "top1": "fur coat",
+        "top2": "sweatshirt",
+        "top3": "cloak",
+        "top4": "bonnet, poke bonnet",
+        "top5": "cardigan"
+    },
+    "1216": {
+        "target": "candle, taper, wax light",
+        "top1": "altar",
+        "top2": "candle, taper, wax light",
+        "top3": "dining table, board",
+        "top4": "desk",
+        "top5": "restaurant, eating house, eating place, eatery"
+    },
+    "1220": {
+        "target": "desktop computer",
+        "top1": "screen, CRT screen",
+        "top2": "desktop computer",
+        "top3": "monitor",
+        "top4": "desk",
+        "top5": "television, television system"
+    },
+    "1226": {
+        "target": "dingo, warrigal, warragal, Canis dingo",
+        "top1": "cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",
+        "top2": "dingo, warrigal, warragal, Canis dingo",
+        "top3": "dhole, Cuon alpinus",
+        "top4": "coyote, prairie wolf, brush wolf, Canis latrans",
+        "top5": "gazelle"
+    },
+    "1229": {
+        "target": "oxygen mask",
+        "top1": "scuba diver",
+        "top2": "ski mask",
+        "top3": "oxygen mask",
+        "top4": "gasmask, respirator, gas helmet",
+        "top5": "snorkel"
+    },
+    "1232": {
+        "target": "maillot",
+        "top1": "maillot, tank suit",
+        "top2": "maillot",
+        "top3": "bikini, two-piece",
+        "top4": "sunglass",
+        "top5": "sunglasses, dark glasses, shades"
+    },
+    "1233": {
+        "target": "malamute, malemute, Alaskan malamute",
+        "top1": "Siberian husky",
+        "top2": "Eskimo dog, husky",
+        "top3": "malamute, malemute, Alaskan malamute",
+        "top4": "Norwegian elkhound, elkhound",
+        "top5": "dogsled, dog sled, dog sleigh"
+    },
+    "1241": {
+        "target": "reel",
+        "top1": "syringe",
+        "top2": "lighter, light, igniter, ignitor",
+        "top3": "screwdriver",
+        "top4": "reel",
+        "top5": "ladle"
+    },
+    "1242": {
+        "target": "scale, weighing machine",
+        "top1": "ladle",
+        "top2": "mortar",
+        "top3": "scale, weighing machine",
+        "top4": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+        "top5": "hammer"
+    },
+    "1244": {
+        "target": "lighter, light, igniter, ignitor",
+        "top1": "torch",
+        "top2": "lighter, light, igniter, ignitor",
+        "top3": "traffic light, traffic signal, stoplight",
+        "top4": "candle, taper, wax light",
+        "top5": "matchstick"
+    },
+    "1251": {
+        "target": "space heater",
+        "top1": "digital clock",
+        "top2": "space heater",
+        "top3": "modem",
+        "top4": "washer, automatic washer, washing machine",
+        "top5": "remote control, remote"
+    },
+    "1255": {
+        "target": "jaguar, panther, Panthera onca, Felis onca",
+        "top1": "leopard, Panthera pardus",
+        "top2": "cheetah, chetah, Acinonyx jubatus",
+        "top3": "African crocodile, Nile crocodile, Crocodylus niloticus",
+        "top4": "jaguar, panther, Panthera onca, Felis onca",
+        "top5": "tiger, Panthera tigris"
+    },
+    "1257": {
+        "target": "monitor",
+        "top1": "screen, CRT screen",
+        "top2": "monitor",
+        "top3": "television, television system",
+        "top4": "desktop computer",
+        "top5": "computer keyboard, keypad"
+    },
+    "1267": {
+        "target": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+        "top1": "sidewinder, horned rattlesnake, Crotalus cerastes",
+        "top2": "horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",
+        "top3": "night snake, Hypsiglena torquata",
+        "top4": "diamondback, diamondback rattlesnake, Crotalus adamanteus",
+        "top5": "hognose snake, puff adder, sand viper"
+    },
+    "1273": {
+        "target": "hermit crab",
+        "top1": "rock crab, Cancer irroratus",
+        "top2": "hermit crab",
+        "top3": "Dungeness crab, Cancer magister",
+        "top4": "fiddler crab",
+        "top5": "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+    },
+    "1276": {
+        "target": "Bedlington terrier",
+        "top1": "standard poodle",
+        "top2": "miniature poodle",
+        "top3": "toy poodle",
+        "top4": "Bedlington terrier",
+        "top5": "Maltese dog, Maltese terrier, Maltese"
+    },
+    "1279": {
+        "target": "nail",
+        "top1": "screw",
+        "top2": "nail",
+        "top3": "screwdriver",
+        "top4": "corkscrew, bottle screw",
+        "top5": "syringe"
+    },
+    "1291": {
+        "target": "bell cote, bell cot",
+        "top1": "church, church building",
+        "top2": "bell cote, bell cot",
+        "top3": "monastery",
+        "top4": "dome",
+        "top5": "vault"
+    },
+    "1293": {
+        "target": "missile",
+        "top1": "projectile, missile",
+        "top2": "missile",
+        "top3": "warplane, military plane",
+        "top4": "aircraft carrier, carrier, flattop, attack aircraft carrier",
+        "top5": "cannon"
+    },
+    "1298": {
+        "target": "macaque",
+        "top1": "titi, titi monkey",
+        "top2": "macaque",
+        "top3": "capuchin, ringtail, Cebus capucinus",
+        "top4": "squirrel monkey, Saimiri sciureus",
+        "top5": "guenon, guenon monkey"
+    },
+    "1301": {
+        "target": "sea lion",
+        "top1": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top2": "lakeside, lakeshore",
+        "top3": "worm fence, snake fence, snake-rail fence, Virginia fence",
+        "top4": "sea lion",
+        "top5": "boathouse"
+    },
+    "1303": {
+        "target": "trimaran",
+        "top1": "schooner",
+        "top2": "trimaran",
+        "top3": "yawl",
+        "top4": "catamaran",
+        "top5": "pirate, pirate ship"
+    },
+    "1314": {
+        "target": "screwdriver",
+        "top1": "screw",
+        "top2": "screwdriver",
+        "top3": "lighter, light, igniter, ignitor",
+        "top4": "car mirror",
+        "top5": "switch, electric switch, electrical switch"
+    },
+    "1318": {
+        "target": "eft",
+        "top1": "common newt, Triturus vulgaris",
+        "top2": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",
+        "top3": "eft",
+        "top4": "axolotl, mud puppy, Ambystoma mexicanum",
+        "top5": "European fire salamander, Salamandra salamandra"
+    },
+    "1330": {
+        "target": "mountain bike, all-terrain bike, off-roader",
+        "top1": "tusker",
+        "top2": "Indian elephant, Elephas maximus",
+        "top3": "mountain bike, all-terrain bike, off-roader",
+        "top4": "African elephant, Loxodonta africana",
+        "top5": "unicycle, monocycle"
+    },
+    "1332": {
+        "target": "African chameleon, Chamaeleo chamaeleon",
+        "top1": "green lizard, Lacerta viridis",
+        "top2": "American chameleon, anole, Anolis carolinensis",
+        "top3": "common iguana, iguana, Iguana iguana",
+        "top4": "African chameleon, Chamaeleo chamaeleon",
+        "top5": "agama"
+    },
+    "1334": {
+        "target": "Dutch oven",
+        "top1": "caldron, cauldron",
+        "top2": "Dutch oven",
+        "top3": "frying pan, frypan, skillet",
+        "top4": "wok",
+        "top5": "hot pot, hotpot"
+    },
+    "1343": {
+        "target": "paddlewheel, paddle wheel",
+        "top1": "solar dish, solar collector, solar furnace",
+        "top2": "radio telescope, radio reflector",
+        "top3": "paddlewheel, paddle wheel",
+        "top4": "beacon, lighthouse, beacon light, pharos",
+        "top5": "pier"
+    },
+    "1349": {
+        "target": "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
+        "top1": "tiger shark, Galeocerdo cuvieri",
+        "top2": "great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",
+        "top3": "hammerhead, hammerhead shark",
+        "top4": "gar, garfish, garpike, billfish, Lepisosteus osseus",
+        "top5": "electric ray, crampfish, numbfish, torpedo"
+    },
+    "1358": {
+        "target": "African crocodile, Nile crocodile, Crocodylus niloticus",
+        "top1": "American alligator, Alligator mississipiensis",
+        "top2": "African crocodile, Nile crocodile, Crocodylus niloticus",
+        "top3": "alligator lizard",
+        "top4": "common iguana, iguana, Iguana iguana",
+        "top5": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis"
+    },
+    "1363": {
+        "target": "Egyptian cat",
+        "top1": "tabby, tabby cat",
+        "top2": "tiger cat",
+        "top3": "Egyptian cat",
+        "top4": "window screen",
+        "top5": "lynx, catamount"
+    },
+    "1369": {
+        "target": "sewing machine",
+        "top1": "washer, automatic washer, washing machine",
+        "top2": "tape player",
+        "top3": "sewing machine",
+        "top4": "cassette player",
+        "top5": "radio, wireless"
+    },
+    "1372": {
+        "target": "plow, plough",
+        "top1": "tractor",
+        "top2": "plow, plough",
+        "top3": "harvester, reaper",
+        "top4": "thresher, thrasher, threshing machine",
+        "top5": "lawn mower, mower"
+    },
+    "1374": {
+        "target": "Brabancon griffon",
+        "top1": "affenpinscher, monkey pinscher, monkey dog",
+        "top2": "Brabancon griffon",
+        "top3": "groenendael",
+        "top4": "Scotch terrier, Scottish terrier, Scottie",
+        "top5": "schipperke"
+    },
+    "1377": {
+        "target": "iron, smoothing iron",
+        "top1": "hook, claw",
+        "top2": "iron, smoothing iron",
+        "top3": "teapot",
+        "top4": "padlock",
+        "top5": "corkscrew, bottle screw"
+    },
+    "1378": {
+        "target": "shovel",
+        "top1": "barrow, garden cart, lawn cart, wheelbarrow",
+        "top2": "swing",
+        "top3": "shovel",
+        "top4": "folding chair",
+        "top5": "shopping cart"
+    },
+    "1381": {
+        "target": "boxer",
+        "top1": "Rhodesian ridgeback",
+        "top2": "bull mastiff",
+        "top3": "boxer",
+        "top4": "redbone",
+        "top5": "bloodhound, sleuthhound"
+    },
+    "1384": {
+        "target": "desktop computer",
+        "top1": "screen, CRT screen",
+        "top2": "monitor",
+        "top3": "television, television system",
+        "top4": "desktop computer",
+        "top5": "iPod"
+    },
+    "1404": {
+        "target": "lens cap, lens cover",
+        "top1": "tripod",
+        "top2": "reflex camera",
+        "top3": "Polaroid camera, Polaroid Land camera",
+        "top4": "lens cap, lens cover",
+        "top5": "binoculars, field glasses, opera glasses"
+    },
+    "1409": {
+        "target": "Kerry blue terrier",
+        "top1": "curly-coated retriever",
+        "top2": "Irish water spaniel",
+        "top3": "standard poodle",
+        "top4": "Bouvier des Flandres, Bouviers des Flandres",
+        "top5": "Kerry blue terrier"
+    },
+    "1411": {
+        "target": "hog, pig, grunter, squealer, Sus scrofa",
+        "top1": "wild boar, boar, Sus scrofa",
+        "top2": "hog, pig, grunter, squealer, Sus scrofa",
+        "top3": "timber wolf, grey wolf, gray wolf, Canis lupus",
+        "top4": "red wolf, maned wolf, Canis rufus, Canis niger",
+        "top5": "coyote, prairie wolf, brush wolf, Canis latrans"
+    },
+    "1413": {
+        "target": "Gordon setter",
+        "top1": "briard",
+        "top2": "Gordon setter",
+        "top3": "Airedale, Airedale terrier",
+        "top4": "Bernese mountain dog",
+        "top5": "Bouvier des Flandres, Bouviers des Flandres"
+    },
+    "1414": {
+        "target": "black-and-tan coonhound",
+        "top1": "Doberman, Doberman pinscher",
+        "top2": "black-and-tan coonhound",
+        "top3": "Rottweiler",
+        "top4": "Gordon setter",
+        "top5": "miniature pinscher"
+    },
+    "1416": {
+        "target": "sports car, sport car",
+        "top1": "Model T",
+        "top2": "racer, race car, racing car",
+        "top3": "car wheel",
+        "top4": "sports car, sport car",
+        "top5": "half track"
+    },
+    "1417": {
+        "target": "sunscreen, sunblock, sun blocker",
+        "top1": "lotion",
+        "top2": "sunscreen, sunblock, sun blocker",
+        "top3": "hair spray",
+        "top4": "perfume, essence",
+        "top5": "face powder"
+    },
+    "1420": {
+        "target": "desktop computer",
+        "top1": "desk",
+        "top2": "desktop computer",
+        "top3": "screen, CRT screen",
+        "top4": "monitor",
+        "top5": "mouse, computer mouse"
+    },
+    "1425": {
+        "target": "Cardigan, Cardigan Welsh corgi",
+        "top1": "Pembroke, Pembroke Welsh corgi",
+        "top2": "Cardigan, Cardigan Welsh corgi",
+        "top3": "basenji",
+        "top4": "dingo, warrigal, warragal, Canis dingo",
+        "top5": "Appenzeller"
+    },
+    "1426": {
+        "target": "cup",
+        "top1": "coffee mug",
+        "top2": "cup",
+        "top3": "espresso",
+        "top4": "pitcher, ewer",
+        "top5": "coffeepot"
+    },
+    "1432": {
+        "target": "pinwheel",
+        "top1": "bubble",
+        "top2": "umbrella",
+        "top3": "plunger, plumber's helper",
+        "top4": "bearskin, busby, shako",
+        "top5": "pinwheel"
+    },
+    "1447": {
+        "target": "brain coral",
+        "top1": "coral reef",
+        "top2": "brain coral",
+        "top3": "rock beauty, Holocanthus tricolor",
+        "top4": "sea anemone, anemone",
+        "top5": "lionfish"
+    },
+    "1450": {
+        "target": "tiger cat",
+        "top1": "tabby, tabby cat",
+        "top2": "Christmas stocking",
+        "top3": "tiger cat",
+        "top4": "pinwheel",
+        "top5": "Egyptian cat"
+    },
+    "1456": {
+        "target": "timber wolf, grey wolf, gray wolf, Canis lupus",
+        "top1": "coyote, prairie wolf, brush wolf, Canis latrans",
+        "top2": "timber wolf, grey wolf, gray wolf, Canis lupus",
+        "top3": "white wolf, Arctic wolf, Canis lupus tundrarum",
+        "top4": "red wolf, maned wolf, Canis rufus, Canis niger",
+        "top5": "dingo, warrigal, warragal, Canis dingo"
+    },
+    "1468": {
+        "target": "collie",
+        "top1": "Shetland sheepdog, Shetland sheep dog, Shetland",
+        "top2": "collie",
+        "top3": "Border collie",
+        "top4": "groenendael",
+        "top5": "Australian terrier"
+    },
+    "1476": {
+        "target": "flagpole, flagstaff",
+        "top1": "library",
+        "top2": "dome",
+        "top3": "palace",
+        "top4": "flagpole, flagstaff",
+        "top5": "pickelhaube"
+    },
+    "1482": {
+        "target": "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+        "top1": "grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",
+        "top2": "killer whale, killer, orca, grampus, sea wolf, Orcinus orca",
+        "top3": "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",
+        "top4": "dugong, Dugong dugon",
+        "top5": "stingray"
+    },
+    "1483": {
+        "target": "printer",
+        "top1": "photocopier",
+        "top2": "printer",
+        "top3": "CD player",
+        "top4": "washer, automatic washer, washing machine",
+        "top5": "dishwasher, dish washer, dishwashing machine"
+    },
+    "1487": {
+        "target": "warthog",
+        "top1": "wild boar, boar, Sus scrofa",
+        "top2": "warthog",
+        "top3": "hog, pig, grunter, squealer, Sus scrofa",
+        "top4": "wombat",
+        "top5": "tusker"
+    },
+    "1494": {
+        "target": "Norwegian elkhound, elkhound",
+        "top1": "keeshond",
+        "top2": "Norwegian elkhound, elkhound",
+        "top3": "Pomeranian",
+        "top4": "chow, chow chow",
+        "top5": "schipperke"
+    },
+    "1496": {
+        "target": "eggnog",
+        "top1": "trifle",
+        "top2": "eggnog",
+        "top3": "ice cream, icecream",
+        "top4": "bakery, bakeshop, bakehouse",
+        "top5": "candle, taper, wax light"
+    },
+    "1497": {
+        "target": "sandbar, sand bar",
+        "top1": "seashore, coast, seacoast, sea-coast",
+        "top2": "promontory, headland, head, foreland",
+        "top3": "sandbar, sand bar",
+        "top4": "lakeside, lakeshore",
+        "top5": "beacon, lighthouse, beacon light, pharos"
+    },
+    "1499": {
+        "target": "patio, terrace",
+        "top1": "mobile home, manufactured home",
+        "top2": "patio, terrace",
+        "top3": "picket fence, paling",
+        "top4": "recreational vehicle, RV, R.V.",
+        "top5": "bannister, banister, balustrade, balusters, handrail"
+    },
+    "1500": {
+        "target": "promontory, headland, head, foreland",
+        "top1": "lakeside, lakeshore",
+        "top2": "promontory, headland, head, foreland",
+        "top3": "valley, vale",
+        "top4": "seashore, coast, seacoast, sea-coast",
+        "top5": "volcano"
+    },
+    "1503": {
+        "target": "terrapin",
+        "top1": "mud turtle",
+        "top2": "hermit crab",
+        "top3": "terrapin",
+        "top4": "box turtle, box tortoise",
+        "top5": "loggerhead, loggerhead turtle, Caretta caretta"
+    },
+    "1504": {
+        "target": "corkscrew, bottle screw",
+        "top1": "syringe",
+        "top2": "corkscrew, bottle screw",
+        "top3": "stethoscope",
+        "top4": "screwdriver",
+        "top5": "pill bottle"
+    },
+    "1508": {
+        "target": "mushroom",
+        "top1": "agaric",
+        "top2": "mushroom",
+        "top3": "bolete",
+        "top4": "stinkhorn, carrion fungus",
+        "top5": "coral fungus"
+    },
+    "1512": {
+        "target": "tricycle, trike, velocipede",
+        "top1": "jinrikisha, ricksha, rickshaw",
+        "top2": "tricycle, trike, velocipede",
+        "top3": "bicycle-built-for-two, tandem bicycle, tandem",
+        "top4": "moped",
+        "top5": "unicycle, monocycle"
+    },
+    "1513": {
+        "target": "breastplate, aegis, egis",
+        "top1": "cuirass",
+        "top2": "breastplate, aegis, egis",
+        "top3": "shield, buckler",
+        "top4": "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",
+        "top5": "pickelhaube"
+    },
+    "1519": {
+        "target": "file, file cabinet, filing cabinet",
+        "top1": "chiffonier, commode",
+        "top2": "wardrobe, closet, press",
+        "top3": "file, file cabinet, filing cabinet",
+        "top4": "chest",
+        "top5": "safe"
+    },
+    "1523": {
+        "target": "tape player",
+        "top1": "cassette",
+        "top2": "cassette player",
+        "top3": "tape player",
+        "top4": "radio, wireless",
+        "top5": "CD player"
+    },
+    "1527": {
+        "target": "red wine",
+        "top1": "wine bottle",
+        "top2": "red wine",
+        "top3": "beer bottle",
+        "top4": "pop bottle, soda bottle",
+        "top5": "corkscrew, bottle screw"
+    },
+    "1530": {
+        "target": "snowplow, snowplough",
+        "top1": "tractor",
+        "top2": "snowplow, snowplough",
+        "top3": "plow, plough",
+        "top4": "harvester, reaper",
+        "top5": "thresher, thrasher, threshing machine"
+    },
+    "1535": {
+        "target": "pickelhaube",
+        "top1": "bearskin, busby, shako",
+        "top2": "hoopskirt, crinoline",
+        "top3": "pickelhaube",
+        "top4": "tripod",
+        "top5": "military uniform"
+    },
+    "1552": {
+        "target": "borzoi, Russian wolfhound",
+        "top1": "Brittany spaniel",
+        "top2": "borzoi, Russian wolfhound",
+        "top3": "Welsh springer spaniel",
+        "top4": "English setter",
+        "top5": "English springer, English springer spaniel"
+    },
+    "1560": {
+        "target": "baboon",
+        "top1": "guenon, guenon monkey",
+        "top2": "baboon",
+        "top3": "patas, hussar monkey, Erythrocebus patas",
+        "top4": "macaque",
+        "top5": "langur"
+    },
+    "1564": {
+        "target": "tabby, tabby cat",
+        "top1": "Egyptian cat",
+        "top2": "tiger cat",
+        "top3": "tabby, tabby cat",
+        "top4": "lynx, catamount",
+        "top5": "snow leopard, ounce, Panthera uncia"
+    },
+    "1565": {
+        "target": "harvestman, daddy longlegs, Phalangium opilio",
+        "top1": "sulphur butterfly, sulfur butterfly",
+        "top2": "harvestman, daddy longlegs, Phalangium opilio",
+        "top3": "cabbage butterfly",
+        "top4": "daisy",
+        "top5": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+    },
+    "1566": {
+        "target": "suspension bridge",
+        "top1": "church, church building",
+        "top2": "altar",
+        "top3": "suspension bridge",
+        "top4": "bannister, banister, balustrade, balusters, handrail",
+        "top5": "organ, pipe organ"
+    },
+    "1567": {
+        "target": "silky terrier, Sydney silky",
+        "top1": "Yorkshire terrier",
+        "top2": "silky terrier, Sydney silky",
+        "top3": "Australian terrier",
+        "top4": "Tibetan terrier, chrysanthemum dog",
+        "top5": "toy terrier"
+    },
+    "1572": {
+        "target": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+        "top1": "common iguana, iguana, Iguana iguana",
+        "top2": "Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",
+        "top3": "sturgeon",
+        "top4": "frilled lizard, Chlamydosaurus kingi",
+        "top5": "alligator lizard"
+    },
+    "1581": {
+        "target": "Norwegian elkhound, elkhound",
+        "top1": "malamute, malemute, Alaskan malamute",
+        "top2": "Norwegian elkhound, elkhound",
+        "top3": "Siberian husky",
+        "top4": "Eskimo dog, husky",
+        "top5": "keeshond"
+    },
+    "1587": {
+        "target": "wine bottle",
+        "top1": "beer bottle",
+        "top2": "wine bottle",
+        "top3": "pop bottle, soda bottle",
+        "top4": "bottlecap",
+        "top5": "pill bottle"
+    },
+    "1591": {
+        "target": "mushroom",
+        "top1": "agaric",
+        "top2": "mushroom",
+        "top3": "bolete",
+        "top4": "stinkhorn, carrion fungus",
+        "top5": "earthstar"
+    },
+    "1597": {
+        "target": "gazelle",
+        "top1": "impala, Aepyceros melampus",
+        "top2": "gazelle",
+        "top3": "hartebeest",
+        "top4": "zebra",
+        "top5": "warthog"
+    },
+    "1602": {
+        "target": "butcher shop, meat market",
+        "top1": "bakery, bakeshop, bakehouse",
+        "top2": "ice cream, icecream",
+        "top3": "confectionery, confectionary, candy store",
+        "top4": "grocery store, grocery, food market, market",
+        "top5": "butcher shop, meat market"
+    },
+    "1604": {
+        "target": "Irish water spaniel",
+        "top1": "standard poodle",
+        "top2": "miniature poodle",
+        "top3": "toy poodle",
+        "top4": "Bouvier des Flandres, Bouviers des Flandres",
+        "top5": "Irish water spaniel"
+    },
+    "1608": {
+        "target": "English setter",
+        "top1": "English springer, English springer spaniel",
+        "top2": "Brittany spaniel",
+        "top3": "English setter",
+        "top4": "German short-haired pointer",
+        "top5": "Welsh springer spaniel"
+    },
+    "1611": {
+        "target": "minivan",
+        "top1": "ambulance",
+        "top2": "pickup, pickup truck",
+        "top3": "convertible",
+        "top4": "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",
+        "top5": "minivan"
+    },
+    "1617": {
+        "target": "tabby, tabby cat",
+        "top1": "sock",
+        "top2": "tabby, tabby cat",
+        "top3": "clog, geta, patten, sabot",
+        "top4": "tiger cat",
+        "top5": "Egyptian cat"
+    },
+    "1618": {
+        "target": "chain",
+        "top1": "nail",
+        "top2": "pole",
+        "top3": "hammer",
+        "top4": "chain",
+        "top5": "hook, claw"
+    },
+    "1621": {
+        "target": "dock, dockage, docking facility",
+        "top1": "dam, dike, dyke",
+        "top2": "pier",
+        "top3": "dock, dockage, docking facility",
+        "top4": "breakwater, groin, groyne, mole, bulwark, seawall, jetty",
+        "top5": "boathouse"
+    },
+    "1623": {
+        "target": "CD player",
+        "top1": "radio, wireless",
+        "top2": "CD player",
+        "top3": "cassette player",
+        "top4": "digital clock",
+        "top5": "tape player"
+    },
+    "1628": {
+        "target": "maillot",
+        "top1": "maillot, tank suit",
+        "top2": "bathing cap, swimming cap",
+        "top3": "maillot",
+        "top4": "comic book",
+        "top5": "bikini, two-piece"
+    },
+    "1629": {
+        "target": "bottlecap",
+        "top1": "cup",
+        "top2": "barrel, cask",
+        "top3": "water bottle",
+        "top4": "bottlecap",
+        "top5": "pill bottle"
+    },
+    "1630": {
+        "target": "sea snake",
+        "top1": "night snake, Hypsiglena torquata",
+        "top2": "centipede",
+        "top3": "sea snake",
+        "top4": "king snake, kingsnake",
+        "top5": "diamondback, diamondback rattlesnake, Crotalus adamanteus"
+    },
+    "1631": {
+        "target": "silky terrier, Sydney silky",
+        "top1": "Yorkshire terrier",
+        "top2": "silky terrier, Sydney silky",
+        "top3": "Australian terrier",
+        "top4": "Norfolk terrier",
+        "top5": "Irish terrier"
+    },
+    "1636": {
+        "target": "tiger cat",
+        "top1": "Egyptian cat",
+        "top2": "tabby, tabby cat",
+        "top3": "tiger cat",
+        "top4": "lynx, catamount",
+        "top5": "Persian cat"
+    },
+    "1647": {
+        "target": "otter",
+        "top1": "weasel",
+        "top2": "mink",
+        "top3": "mongoose",
+        "top4": "otter",
+        "top5": "polecat, fitch, foulmart, foumart, Mustela putorius"
+    },
+    "1652": {
+        "target": "patio, terrace",
+        "top1": "bannister, banister, balustrade, balusters, handrail",
+        "top2": "patio, terrace",
+        "top3": "turnstile",
+        "top4": "pay-phone, pay-station",
+        "top5": "fire screen, fireguard"
+    },
+    "1663": {
+        "target": "plow, plough",
+        "top1": "barrow, garden cart, lawn cart, wheelbarrow",
+        "top2": "plow, plough",
+        "top3": "tricycle, trike, velocipede",
+        "top4": "shovel",
+        "top5": "bucket, pail"
+    },
+    "1665": {
+        "target": "gown",
+        "top1": "hoopskirt, crinoline",
+        "top2": "overskirt",
+        "top3": "gown",
+        "top4": "miniskirt, mini",
+        "top5": "velvet"
+    },
+    "1667": {
+        "target": "refrigerator, icebox",
+        "top1": "beer bottle",
+        "top2": "wine bottle",
+        "top3": "refrigerator, icebox",
+        "top4": "red wine",
+        "top5": "pop bottle, soda bottle"
+    },
+    "1669": {
+        "target": "tape player",
+        "top1": "CD player",
+        "top2": "radio, wireless",
+        "top3": "tape player",
+        "top4": "cassette player",
+        "top5": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system"
+    },
+    "1674": {
+        "target": "pizza, pizza pie",
+        "top1": "French loaf",
+        "top2": "bagel, beigel",
+        "top3": "bakery, bakeshop, bakehouse",
+        "top4": "pizza, pizza pie",
+        "top5": "potpie"
+    },
+    "1675": {
+        "target": "plow, plough",
+        "top1": "tractor",
+        "top2": "plow, plough",
+        "top3": "harvester, reaper",
+        "top4": "lawn mower, mower",
+        "top5": "snowplow, snowplough"
+    },
+    "1679": {
+        "target": "speedboat",
+        "top1": "lifeboat",
+        "top2": "speedboat",
+        "top3": "fireboat",
+        "top4": "trimaran",
+        "top5": "amphibian, amphibious vehicle"
+    },
+    "1681": {
+        "target": "television, television system",
+        "top1": "wig",
+        "top2": "television, television system",
+        "top3": "desk",
+        "top4": "monitor",
+        "top5": "bookcase"
+    },
+    "1690": {
+        "target": "window screen",
+        "top1": "fire screen, fireguard",
+        "top2": "window screen",
+        "top3": "chainlink fence",
+        "top4": "window shade",
+        "top5": "prison, prison house"
+    },
+    "1693": {
+        "target": "lens cap, lens cover",
+        "top1": "backpack, back pack, knapsack, packsack, rucksack, haversack",
+        "top2": "reflex camera",
+        "top3": "gasmask, respirator, gas helmet",
+        "top4": "binoculars, field glasses, opera glasses",
+        "top5": "lens cap, lens cover"
+    },
+    "1698": {
+        "target": "whiskey jug",
+        "top1": "medicine chest, medicine cabinet",
+        "top2": "china cabinet, china closet",
+        "top3": "whiskey jug",
+        "top4": "perfume, essence",
+        "top5": "bookcase"
+    },
+    "1699": {
+        "target": "black and gold garden spider, Argiope aurantia",
+        "top1": "garden spider, Aranea diademata",
+        "top2": "black and gold garden spider, Argiope aurantia",
+        "top3": "barn spider, Araneus cavaticus",
+        "top4": "spider web, spider's web",
+        "top5": "wolf spider, hunting spider"
+    },
+    "1708": {
+        "target": "nipple",
+        "top1": "syringe",
+        "top2": "nipple",
+        "top3": "pill bottle",
+        "top4": "lipstick, lip rouge",
+        "top5": "lotion"
+    },
+    "1718": {
+        "target": "Newfoundland, Newfoundland dog",
+        "top1": "briard",
+        "top2": "Newfoundland, Newfoundland dog",
+        "top3": "Bouvier des Flandres, Bouviers des Flandres",
+        "top4": "Irish wolfhound",
+        "top5": "Sussex spaniel"
+    },
+    "1720": {
+        "target": "Eskimo dog, husky",
+        "top1": "Siberian husky",
+        "top2": "maraca",
+        "top3": "Eskimo dog, husky",
+        "top4": "ping-pong ball",
+        "top5": "malamute, malemute, Alaskan malamute"
+    },
+    "1721": {
+        "target": "Leonberg",
+        "top1": "Tibetan mastiff",
+        "top2": "Tibetan terrier, chrysanthemum dog",
+        "top3": "Leonberg",
+        "top4": "Newfoundland, Newfoundland dog",
+        "top5": "Saint Bernard, St Bernard"
+    },
+    "1727": {
+        "target": "analog clock",
+        "top1": "barometer",
+        "top2": "analog clock",
+        "top3": "wall clock",
+        "top4": "stopwatch, stop watch",
+        "top5": "magnetic compass"
+    },
+    "1729": {
+        "target": "grand piano, grand",
+        "top1": "upright, upright piano",
+        "top2": "grand piano, grand",
+        "top3": "accordion, piano accordion, squeeze box",
+        "top4": "lighter, light, igniter, ignitor",
+        "top5": "pick, plectrum, plectron"
+    },
+    "1735": {
+        "target": "bloodhound, sleuthhound",
+        "top1": "English foxhound",
+        "top2": "Walker hound, Walker foxhound",
+        "top3": "beagle",
+        "top4": "bloodhound, sleuthhound",
+        "top5": "basset, basset hound"
+    },
+    "1737": {
+        "target": "goose",
+        "top1": "drake",
+        "top2": "goose",
+        "top3": "black swan, Cygnus atratus",
+        "top4": "lakeside, lakeshore",
+        "top5": "American coot, marsh hen, mud hen, water hen, Fulica americana"
+    },
+    "1757": {
+        "target": "patio, terrace",
+        "top1": "bannister, banister, balustrade, balusters, handrail",
+        "top2": "patio, terrace",
+        "top3": "mobile home, manufactured home",
+        "top4": "coil, spiral, volute, whorl, helix",
+        "top5": "pot, flowerpot"
+    },
+    "1759": {
+        "target": "polecat, fitch, foulmart, foumart, Mustela putorius",
+        "top1": "black-footed ferret, ferret, Mustela nigripes",
+        "top2": "weasel",
+        "top3": "polecat, fitch, foulmart, foumart, Mustela putorius",
+        "top4": "mink",
+        "top5": "hamster"
+    },
+    "1767": {
+        "target": "grasshopper, hopper",
+        "top1": "cricket",
+        "top2": "grasshopper, hopper",
+        "top3": "mantis, mantid",
+        "top4": "walking stick, walkingstick, stick insect",
+        "top5": "leafhopper"
+    },
+    "1772": {
+        "target": "modem",
+        "top1": "toaster",
+        "top2": "modem",
+        "top3": "binder, ring-binder",
+        "top4": "bucket, pail",
+        "top5": "iPod"
+    },
+    "1774": {
+        "target": "handkerchief, hankie, hanky, hankey",
+        "top1": "envelope",
+        "top2": "binder, ring-binder",
+        "top3": "packet",
+        "top4": "handkerchief, hankie, hanky, hankey",
+        "top5": "wallet, billfold, notecase, pocketbook"
+    },
+    "1775": {
+        "target": "EntleBucher",
+        "top1": "Greater Swiss Mountain dog",
+        "top2": "Appenzeller",
+        "top3": "EntleBucher",
+        "top4": "Bernese mountain dog",
+        "top5": "Rottweiler"
+    },
+    "1784": {
+        "target": "water jug",
+        "top1": "pitcher, ewer",
+        "top2": "water jug",
+        "top3": "vase",
+        "top4": "cup",
+        "top5": "coffeepot"
+    },
+    "1794": {
+        "target": "ping-pong ball",
+        "top1": "baseball",
+        "top2": "ping-pong ball",
+        "top3": "golf ball",
+        "top4": "ballplayer, baseball player",
+        "top5": "soccer ball"
+    },
+    "1802": {
+        "target": "harvester, reaper",
+        "top1": "lawn mower, mower",
+        "top2": "harvester, reaper",
+        "top3": "chain saw, chainsaw",
+        "top4": "tractor",
+        "top5": "go-kart"
+    },
+    "1812": {
+        "target": "suit, suit of clothes",
+        "top1": "trench coat",
+        "top2": "television, television system",
+        "top3": "entertainment center",
+        "top4": "suit, suit of clothes",
+        "top5": "fire screen, fireguard"
+    },
+    "1814": {
+        "target": "Dandie Dinmont, Dandie Dinmont terrier",
+        "top1": "Old English sheepdog, bobtail",
+        "top2": "Tibetan terrier, chrysanthemum dog",
+        "top3": "Dandie Dinmont, Dandie Dinmont terrier",
+        "top4": "Border collie",
+        "top5": "otterhound, otter hound"
+    },
+    "1819": {
+        "target": "laptop, laptop computer",
+        "top1": "notebook, notebook computer",
+        "top2": "laptop, laptop computer",
+        "top3": "hand-held computer, hand-held microcomputer",
+        "top4": "space bar",
+        "top5": "desktop computer"
+    },
+    "1822": {
+        "target": "kuvasz",
+        "top1": "Great Pyrenees",
+        "top2": "kuvasz",
+        "top3": "Samoyed, Samoyede",
+        "top4": "white wolf, Arctic wolf, Canis lupus tundrarum",
+        "top5": "Tibetan mastiff"
+    },
+    "1827": {
+        "target": "abacus",
+        "top1": "maze, labyrinth",
+        "top2": "abacus",
+        "top3": "traffic light, traffic signal, stoplight",
+        "top4": "street sign",
+        "top5": "chain"
+    },
+    "1831": {
+        "target": "viaduct",
+        "top1": "bannister, banister, balustrade, balusters, handrail",
+        "top2": "suspension bridge",
+        "top3": "pole",
+        "top4": "viaduct",
+        "top5": "spotlight, spot"
+    },
+    "1836": {
+        "target": "CD player",
+        "top1": "cassette player",
+        "top2": "tape player",
+        "top3": "CD player",
+        "top4": "radio, wireless",
+        "top5": "cassette"
+    },
+    "1837": {
+        "target": "keeshond",
+        "top1": "chow, chow chow",
+        "top2": "keeshond",
+        "top3": "Pomeranian",
+        "top4": "groenendael",
+        "top5": "Samoyed, Samoyede"
+    },
+    "1846": {
+        "target": "table lamp",
+        "top1": "lampshade, lamp shade",
+        "top2": "table lamp",
+        "top3": "spotlight, spot",
+        "top4": "vase",
+        "top5": "window shade"
+    },
+    "1876": {
+        "target": "abaya",
+        "top1": "kimono",
+        "top2": "suit, suit of clothes",
+        "top3": "cloak",
+        "top4": "abaya",
+        "top5": "stole"
+    },
+    "1877": {
+        "target": "pay-phone, pay-station",
+        "top1": "dial telephone, dial phone",
+        "top2": "pay-phone, pay-station",
+        "top3": "photocopier",
+        "top4": "cellular telephone, cellular phone, cellphone, cell, mobile phone",
+        "top5": "printer"
+    },
+    "1884": {
+        "target": "giant schnauzer",
+        "top1": "groenendael",
+        "top2": "giant schnauzer",
+        "top3": "standard schnauzer",
+        "top4": "kelpie",
+        "top5": "flat-coated retriever"
+    },
+    "1886": {
+        "target": "Doberman, Doberman pinscher",
+        "top1": "Rottweiler",
+        "top2": "Doberman, Doberman pinscher",
+        "top3": "black-and-tan coonhound",
+        "top4": "Greater Swiss Mountain dog",
+        "top5": "miniature pinscher"
+    },
+    "1888": {
+        "target": "paper towel",
+        "top1": "paintbrush",
+        "top2": "paper towel",
+        "top3": "Petri dish",
+        "top4": "toilet tissue, toilet paper, bathroom tissue",
+        "top5": "ice cream, icecream"
+    },
+    "1890": {
+        "target": "church, church building",
+        "top1": "vault",
+        "top2": "monastery",
+        "top3": "altar",
+        "top4": "church, church building",
+        "top5": "organ, pipe organ"
+    },
+    "1891": {
+        "target": "clog, geta, patten, sabot",
+        "top1": "Loafer",
+        "top2": "clog, geta, patten, sabot",
+        "top3": "sandal",
+        "top4": "shoe shop, shoe-shop, shoe store",
+        "top5": "buckle"
+    },
+    "1895": {
+        "target": "reflex camera",
+        "top1": "cassette player",
+        "top2": "tape player",
+        "top3": "cassette",
+        "top4": "reflex camera",
+        "top5": "radio, wireless"
+    },
+    "1898": {
+        "target": "Lhasa, Lhasa apso",
+        "top1": "Shih-Tzu",
+        "top2": "Lhasa, Lhasa apso",
+        "top3": "papillon",
+        "top4": "silky terrier, Sydney silky",
+        "top5": "Pekinese, Pekingese, Peke"
+    },
+    "1901": {
+        "target": "four-poster",
+        "top1": "shoji",
+        "top2": "four-poster",
+        "top3": "sliding door",
+        "top4": "quilt, comforter, comfort, puff",
+        "top5": "wardrobe, closet, press"
+    },
+    "1905": {
+        "target": "trench coat",
+        "top1": "suit, suit of clothes",
+        "top2": "trench coat",
+        "top3": "cardigan",
+        "top4": "wool, woolen, woollen",
+        "top5": "miniskirt, mini"
+    },
+    "1916": {
+        "target": "EntleBucher",
+        "top1": "Greater Swiss Mountain dog",
+        "top2": "EntleBucher",
+        "top3": "Appenzeller",
+        "top4": "Bernese mountain dog",
+        "top5": "Rottweiler"
+    },
+    "1920": {
+        "target": "lotion",
+        "top1": "soap dispenser",
+        "top2": "lotion",
+        "top3": "perfume, essence",
+        "top4": "sunscreen, sunblock, sun blocker",
+        "top5": "saltshaker, salt shaker"
+    },
+    "1923": {
+        "target": "soap dispenser",
+        "top1": "washbasin, handbasin, washbowl, lavabo, wash-hand basin",
+        "top2": "soap dispenser",
+        "top3": "medicine chest, medicine cabinet",
+        "top4": "bathtub, bathing tub, bath, tub",
+        "top5": "tub, vat"
+    },
+    "1924": {
+        "target": "miniskirt, mini",
+        "top1": "soccer ball",
+        "top2": "plunger, plumber's helper",
+        "top3": "miniskirt, mini",
+        "top4": "ping-pong ball",
+        "top5": "umbrella"
+    },
+    "1928": {
+        "target": "pot, flowerpot",
+        "top1": "coil, spiral, volute, whorl, helix",
+        "top2": "pot, flowerpot",
+        "top3": "starfish, sea star",
+        "top4": "sea anemone, anemone",
+        "top5": "coral reef"
+    },
+    "1934": {
+        "target": "head cabbage",
+        "top1": "custard apple",
+        "top2": "head cabbage",
+        "top3": "acorn",
+        "top4": "fig",
+        "top5": "cauliflower"
+    },
+    "1938": {
+        "target": "sombrero",
+        "top1": "Chihuahua",
+        "top2": "miniature pinscher",
+        "top3": "sombrero",
+        "top4": "cowboy hat, ten-gallon hat",
+        "top5": "toy terrier"
+    },
+    "1941": {
+        "target": "turnstile",
+        "top1": "steel arch bridge",
+        "top2": "turnstile",
+        "top3": "pier",
+        "top4": "bannister, banister, balustrade, balusters, handrail",
+        "top5": "coil, spiral, volute, whorl, helix"
+    },
+    "1945": {
+        "target": "mixing bowl",
+        "top1": "cup",
+        "top2": "mixing bowl",
+        "top3": "soup bowl",
+        "top4": "pitcher, ewer",
+        "top5": "goblet"
+    },
+    "1954": {
+        "target": "entertainment center",
+        "top1": "home theater, home theatre",
+        "top2": "television, television system",
+        "top3": "entertainment center",
+        "top4": "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",
+        "top5": "screen, CRT screen"
+    },
+    "1955": {
+        "target": "drilling platform, offshore rig",
+        "top1": "crane",
+        "top2": "drilling platform, offshore rig",
+        "top3": "container ship, containership, container vessel",
+        "top4": "fireboat",
+        "top5": "dock, dockage, docking facility"
+    },
+    "1956": {
+        "target": "assault rifle, assault gun",
+        "top1": "rifle",
+        "top2": "assault rifle, assault gun",
+        "top3": "revolver, six-gun, six-shooter",
+        "top4": "holster",
+        "top5": "military uniform"
+    },
+    "1958": {
+        "target": "combination lock",
+        "top1": "pickelhaube",
+        "top2": "screw",
+        "top3": "loupe, jeweler's loupe",
+        "top4": "combination lock",
+        "top5": "spotlight, spot"
+    },
+    "1963": {
+        "target": "confectionery, confectionary, candy store",
+        "top1": "packet",
+        "top2": "confectionery, confectionary, candy store",
+        "top3": "carton",
+        "top4": "comic book",
+        "top5": "wallet, billfold, notecase, pocketbook"
+    },
+    "1971": {
+        "target": "wig",
+        "top1": "hair spray",
+        "top2": "wig",
+        "top3": "perfume, essence",
+        "top4": "knot",
+        "top5": "water bottle"
+    },
+    "1972": {
+        "target": "thresher, thrasher, threshing machine",
+        "top1": "harvester, reaper",
+        "top2": "thresher, thrasher, threshing machine",
+        "top3": "tractor",
+        "top4": "ear, spike, capitulum",
+        "top5": "plow, plough"
+    },
+    "1973": {
+        "target": "mosque",
+        "top1": "traffic light, traffic signal, stoplight",
+        "top2": "street sign",
+        "top3": "cab, hack, taxi, taxicab",
+        "top4": "mosque",
+        "top5": "fountain"
+    },
+    "1976": {
+        "target": "hog, pig, grunter, squealer, Sus scrofa",
+        "top1": "wild boar, boar, Sus scrofa",
+        "top2": "hog, pig, grunter, squealer, Sus scrofa",
+        "top3": "warthog",
+        "top4": "tusker",
+        "top5": "American black bear, black bear, Ursus americanus, Euarctos americanus"
+    },
+    "1981": {
+        "target": "bath towel",
+        "top1": "wool, woolen, woollen",
+        "top2": "bath towel",
+        "top3": "paper towel",
+        "top4": "velvet",
+        "top5": "handkerchief, hankie, hanky, hankey"
+    },
+    "1985": {
+        "target": "black and gold garden spider, Argiope aurantia",
+        "top1": "garden spider, Aranea diademata",
+        "top2": "black and gold garden spider, Argiope aurantia",
+        "top3": "spider web, spider's web",
+        "top4": "barn spider, Araneus cavaticus",
+        "top5": "black widow, Latrodectus mactans"
+    },
+    "1992": {
+        "target": "pug, pug-dog",
+        "top1": "Labrador retriever",
+        "top2": "pug, pug-dog",
+        "top3": "schipperke",
+        "top4": "Staffordshire bullterrier, Staffordshire bull terrier",
+        "top5": "Egyptian cat"
+    },
+    "1995": {
+        "target": "Eskimo dog, husky",
+        "top1": "Siberian husky",
+        "top2": "Eskimo dog, husky",
+        "top3": "malamute, malemute, Alaskan malamute",
+        "top4": "Norwegian elkhound, elkhound",
+        "top5": "white wolf, Arctic wolf, Canis lupus tundrarum"
+    },
+    "1997": {
+        "target": "Brabancon griffon",
+        "top1": "French bulldog",
+        "top2": "pug, pug-dog",
+        "top3": "Brabancon griffon",
+        "top4": "Labrador retriever",
+        "top5": "schipperke"
+    },
+    "1998": {
+        "target": "ram, tup",
+        "top1": "bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",
+        "top2": "ram, tup",
+        "top3": "ibex, Capra ibex",
+        "top4": "bison",
+        "top5": "cliff dwelling"
+    }
+}
