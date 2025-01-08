@@ -82,7 +82,7 @@ def main():
     # Get model
     model = get_model(args.model, n_output, dataset=args.dataset_name)
     model = model.eval()
-    print('Dataset loaded in eval mode.')
+    print('Model loaded in eval mode.')
 
     # Use GPU
     if args.gpu:
