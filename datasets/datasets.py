@@ -12,7 +12,7 @@ datasets_dict = {
         'class_fn': ImageNet,
         'n_output': 1000,
         'split': 'val',
-        'indices_csv': 'datasets/1445idx_ILSVRC2012_top1.csv',
+        'indices_csv': 'None',
         'transform': transforms.Compose([
             transforms.ToTensor(),
             transforms.Resize((224, 224)),
@@ -30,6 +30,7 @@ def get_dataset(name, root):
         subset = torch.utils.data.Subset(dataset, subset_indices)
         return subset, cur_dict["n_output"]
     except:
+        print('[DEBUG] WHOLE DATASET')
         return dataset, cur_dict["n_output"]
 
 class XAIDataset(Dataset):
