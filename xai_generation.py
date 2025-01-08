@@ -43,7 +43,7 @@ parser.add_argument('--baseline',       type=str, default='',                   
 parser.add_argument('--csv_folder',     type=str, default='csv',                            help='csv folder to save metrics')
 parser.add_argument('--npz_folder',     type=str, default='npz',                            help='npz folder to save or load xai maps id required')
 parser.add_argument('--save_npz',       dest='save_npz', action='store_true',               help='save xai maps in a npz file')
-parser.add_argument('--npz_checkpoint', type=str, default='2000idx/rollout_vit_b16_imagenet.npz',                               help='use this option to load a checkpoint npz for metric computation, skip map computation if used')
+parser.add_argument('--npz_checkpoint', type=str, default='',                               help='use this option to load a checkpoint npz for metric computation, skip map computation if used')
 parser.add_argument('--skip_metrics',   dest='skip_metrics', action='store_true',           help='skip metrics computation, useful to just produce the maps without metrics')
 parser.add_argument('--gpu',            dest='gpu', action='store_true',                    help='use gpu (default)')
 parser.add_argument('--cpu',            dest='gpu', action='store_false',                   help='use cpu instead of gpu')
