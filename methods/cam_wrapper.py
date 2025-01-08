@@ -13,10 +13,10 @@ try:
 except:
     print('ERROR: cam was not found.')
 
-methods = \
-    {"gradcam": GradCAM,
-    "scorecam": ScoreCAM,
-    "gradcam++": GradCAMPlusPlus}
+# methods = \
+#     {"gradcam": GradCAM,
+#     "scorecam": ScoreCAM,
+#     "gradcam++": GradCAMPlusPlus}
 
 def reshape_transform(tensor, height=14, width=14):
     result = tensor[:, 1:, :].reshape(tensor.size(0), height, width, tensor.size(2))
