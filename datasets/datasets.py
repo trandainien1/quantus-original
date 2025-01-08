@@ -12,7 +12,7 @@ datasets_dict = {
         'class_fn': ImageNet,
         'n_output': 1000,
         'split': 'val',
-        'indices_csv': 'datasets/2000idx_ILSVRC2012.csv',
+        'indices_csv': 'datasets/1445idx_ILSVRC2012_top1.csv',
         'transform': transforms.Compose([
             transforms.ToTensor(),
             transforms.Resize((224, 224)),
@@ -28,10 +28,8 @@ def get_dataset(name, root):
     try:
         subset_indices = pd.read_csv(cur_dict['indices_csv'], header=None)[0].to_numpy()
         subset = torch.utils.data.Subset(dataset, subset_indices)
-        print('[DEBUG]: return subset')
         return subset, cur_dict["n_output"]
     except:
-        print('[DEBUG]: return whole dataset')
         return dataset, cur_dict["n_output"]
 
 class XAIDataset(Dataset):
